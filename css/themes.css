@@ -1,0 +1,149 @@
+/* ═══════════════════════════════════════════════
+   GACHA PLANNER — themes.css
+   Per-game accent colors + element pill colors
+   ═══════════════════════════════════════════════ */
+
+/* ── Genshin Impact ─────────────────────── */
+body[data-game="genshin"] {
+  --accent:  #c9a96e;
+  --accent2: rgba(201,169,110,.12);
+  --accent3: rgba(201,169,110,.05);
+  --glow:    rgba(201,169,110,.2);
+}
+
+/* ── Honkai: Star Rail ──────────────────── */
+body[data-game="hsr"] {
+  --accent:  #7eb8f7;
+  --accent2: rgba(126,184,247,.12);
+  --accent3: rgba(126,184,247,.05);
+  --glow:    rgba(126,184,247,.2);
+}
+
+/* ── Zenless Zone Zero ──────────────────── */
+body[data-game="zzz"] {
+  --accent:  #f0b830;
+  --accent2: rgba(240,184,48,.12);
+  --accent3: rgba(240,184,48,.05);
+  --glow:    rgba(240,184,48,.2);
+}
+
+/* ── Wuthering Waves ────────────────────── */
+body[data-game="wuwa"] {
+  --accent:  #4ee8c0;
+  --accent2: rgba(78,232,192,.10);
+  --accent3: rgba(78,232,192,.04);
+  --glow:    rgba(78,232,192,.18);
+}
+
+/* ══════════════════════════════════════════
+   Element / specialty pill colors
+   ══════════════════════════════════════════ */
+
+/* Genshin elements */
+.elem-Pyro     { --ec: #e85d4a; }
+.elem-Hydro    { --ec: #4a9ee8; }
+.elem-Anemo    { --ec: #4ae8b8; }
+.elem-Electro  { --ec: #b899e8; }
+.elem-Dendro   { --ec: #7dc954; }
+.elem-Cryo     { --ec: #8ae0f0; }
+.elem-Geo      { --ec: #e8a43a; }
+
+/* HSR elements */
+.elem-Fire        { --ec: #e85d4a; }
+.elem-Ice         { --ec: #8ae0f0; }
+.elem-Wind        { --ec: #4ae8b8; }
+.elem-Lightning   { --ec: #b899e8; }
+.elem-Quantum     { --ec: #9b6be8; }
+.elem-Imaginary   { --ec: #e8d46a; }
+.elem-Physical    { --ec: #aab8cc; }
+
+/* ZZZ elements */
+.elem-Electric { --ec: #b899e8; }
+.elem-Ether    { --ec: #c470e8; }
+/* Fire already defined above */
+/* Ice already defined above */
+/* Physical already defined above */
+
+/* WuWa elements */
+.elem-Glacio  { --ec: #8ae0f0; }
+.elem-Fusion  { --ec: #e85d4a; }
+/* Electro already defined above */
+.elem-Aero    { --ec: #4ae8b8; }
+.elem-Spectro { --ec: #e8e064; }
+.elem-Havoc   { --ec: #cc6b8a; }
+
+/* Apply element color to pill */
+.pill[data-elem] {
+  --ec: var(--text3);
+}
+
+.pill[data-elem].active {
+  background: color-mix(in srgb, var(--ec) 15%, transparent);
+  border-color: var(--ec);
+  color: var(--ec);
+}
+
+.pill[data-elem]:hover:not(.active) {
+  border-color: color-mix(in srgb, var(--ec) 50%, transparent);
+  color: color-mix(in srgb, var(--ec) 70%, var(--text2));
+}
+
+/* Element dot colors in char cards */
+.elem-dot.elem-Pyro     { background: #e85d4a; }
+.elem-dot.elem-Hydro    { background: #4a9ee8; }
+.elem-dot.elem-Anemo    { background: #4ae8b8; }
+.elem-dot.elem-Electro  { background: #b899e8; }
+.elem-dot.elem-Dendro   { background: #7dc954; }
+.elem-dot.elem-Cryo     { background: #8ae0f0; }
+.elem-dot.elem-Geo      { background: #e8a43a; }
+.elem-dot.elem-Fire     { background: #e85d4a; }
+.elem-dot.elem-Ice      { background: #8ae0f0; }
+.elem-dot.elem-Wind     { background: #4ae8b8; }
+.elem-dot.elem-Lightning{ background: #b899e8; }
+.elem-dot.elem-Quantum  { background: #9b6be8; }
+.elem-dot.elem-Imaginary{ background: #e8d46a; }
+.elem-dot.elem-Physical { background: #aab8cc; }
+.elem-dot.elem-Electric { background: #b899e8; }
+.elem-dot.elem-Ether    { background: #c470e8; }
+.elem-dot.elem-Glacio   { background: #8ae0f0; }
+.elem-dot.elem-Fusion   { background: #e85d4a; }
+.elem-dot.elem-Aero     { background: #4ae8b8; }
+.elem-dot.elem-Spectro  { background: #e8e064; }
+.elem-dot.elem-Havoc    { background: #cc6b8a; }
+
+/* ── Game tab accents ───────────────────── */
+.game-tab[data-game="genshin"] { --tab-accent: #c9a96e; }
+.game-tab[data-game="hsr"]     { --tab-accent: #7eb8f7; }
+.game-tab[data-game="zzz"]     { --tab-accent: #f0b830; }
+.game-tab[data-game="wuwa"]    { --tab-accent: #4ee8c0; }
+
+/* ── Rarity avatar backgrounds ──────────── */
+.char-card.rarity-5 .char-avatar {
+  background: linear-gradient(135deg, #231808, #3d2d10);
+}
+
+.char-card.rarity-4 .char-avatar {
+  background: linear-gradient(135deg, #1a1428, #2e2042);
+}
+
+/* ── Specialty tag colors (ZZZ / WuWa) ─── */
+.spec-Attack     { color: #e87a4a; }
+.spec-Stun       { color: #e8c94a; }
+.spec-Anomaly    { color: #9b6be8; }
+.spec-Support    { color: #4ae8b8; }
+.spec-Defense    { color: #4a9ee8; }
+.spec-Rupture    { color: #cc6b8a; }
+.spec-Sword      { color: #8ae0f0; }
+.spec-Broadblade { color: #e8a43a; }
+.spec-Pistols    { color: #e8d46a; }
+.spec-Gauntlets  { color: #e85d4a; }
+.spec-Rectifier  { color: #b899e8; }
+.spec-Hunt       { color: #e8d46a; }
+.spec-Erudition  { color: #4a9ee8; }
+.spec-Harmony    { color: #4ae8b8; }
+.spec-Nihility   { color: #9b6be8; }
+.spec-Preservation { color: #e8a43a; }
+.spec-Abundance  { color: #7dc954; }
+.spec-Destruction{ color: #e85d4a; }
+.spec-Remembrance{ color: #8ae0f0; }
+.spec-Follow-up  { color: #b899e8; }
