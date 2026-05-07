@@ -11,9 +11,7 @@
   <link rel="stylesheet" href="css/themes.css" />
 </head>
 <body>
-
   <div id="app">
-    <!-- Header -->
     <header class="site-header">
       <div class="header-inner">
         <div class="logo">
@@ -28,18 +26,14 @@
       </div>
     </header>
 
-    <!-- Game theme strip -->
     <div class="theme-strip" id="themeStrip"></div>
 
-    <!-- Main content -->
     <main class="main-content">
-      <!-- Left: Character browser -->
-      <section class="panel panel-browser" id="panelBrowser">
+      <section class="panel panel-browser">
         <div class="panel-head">
           <h2 class="panel-title">Characters</h2>
           <span class="char-count" id="charCount"></span>
         </div>
-
         <div class="browser-controls">
           <div class="search-wrap">
             <span class="search-icon">⌕</span>
@@ -52,18 +46,16 @@
           </div>
           <div class="filter-pills" id="filterElement"></div>
         </div>
-
         <div class="char-grid" id="charGrid"></div>
       </section>
 
-      <!-- Right: Wishlist -->
-      <section class="panel panel-wishlist" id="panelWishlist">
+      <section class="panel panel-wishlist">
         <div class="panel-head">
           <h2 class="panel-title">Wishlist</h2>
           <span class="char-count" id="wishCount">0 entries</span>
         </div>
         <div class="wishlist-body" id="wishlistBody">
-          <div class="wish-empty" id="wishEmpty">
+          <div class="wish-empty">
             <div class="wish-empty-glyph">✦</div>
             <p>Add characters from the list</p>
           </div>
@@ -72,7 +64,6 @@
     </main>
   </div>
 
-  <!-- Import file input (hidden) -->
   <input type="file" id="importInput" accept=".json" style="display:none" />
 
   <script src="js/data.js"></script>

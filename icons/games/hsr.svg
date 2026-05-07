@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#90c8ff"/>
+      <stop offset="100%" stop-color="#5090e8"/>
+    </linearGradient>
+  </defs>
+  <!-- Rocket / comet icon -->
+  <path d="M8 24 L18 8 L22 12 Z" fill="url(#hg)" opacity="0.9"/>
+  <path d="M8 24 L12 20 L16 22 Z" fill="#7090c0" opacity="0.6"/>
+  <circle cx="18" cy="8" r="3" fill="#b0d8ff"/>
+  <!-- Stars -->
+  <circle cx="6" cy="10" r="1" fill="#7eb8f7"/>
+  <circle cx="24" cy="20" r="1" fill="#7eb8f7"/>
+  <!-- Text -->
+  <text x="30" y="14" font-family="Georgia, serif" font-size="9" font-weight="bold"
+        fill="url(#hg)" letter-spacing="0.5">HONKAI</text>
+  <text x="30" y="25" font-family="Georgia, serif" font-size="9" font-weight="bold"
+        fill="url(#hg)" letter-spacing="0.3">STAR RAIL</text>
+</svg>

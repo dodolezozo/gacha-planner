@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32">
+  <defs>
+    <linearGradient id="gg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8d090"/>
+      <stop offset="100%" stop-color="#c9a050"/>
+    </linearGradient>
+  </defs>
+  <!-- Stylized wind spiral icon -->
+  <path d="M14 6 C14 6 22 8 22 16 C22 22 17 26 12 24 C8 22 7 17 10 14 C12 11 17 12 18 15 C19 17 17 19 15 18"
+        fill="none" stroke="url(#gg)" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="15" cy="18" r="1.5" fill="#c9a050"/>
+  <!-- Text -->
+  <text x="28" y="21" font-family="Georgia, serif" font-size="13" font-weight="bold"
+        fill="url(#gg)" letter-spacing="0.5">GENSHIN</text>
+</svg>

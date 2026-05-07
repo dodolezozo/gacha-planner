@@ -5,14 +5,15 @@
     "rarity": 5,
     "element": "Fire",
     "specialty": "Stun",
-    "image_url": "https://static.nanoka.cc/assets/zzz/.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1571"
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconFire.webp",
+    "page_url": "https://zzz.akademiya.app/en/characters/1571",
+    "image_local": "images\\zzz\\norma.webp"
   },
   {
     "id": "1561",
     "name": "Velina",
     "rarity": 5,
-    "element": null,
+    "element": "Wind",
     "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconWind.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1561",
@@ -214,7 +215,7 @@
     "rarity": 5,
     "element": "Ice",
     "specialty": "Attack",
-    "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop42.webp",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop43.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1291",
     "image_local": "images\\zzz\\hugo.webp"
   },
