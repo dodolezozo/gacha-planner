@@ -3,1089 +3,1210 @@
     "id": "10000129",
     "name": "Lohen",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lohen.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000129"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000129",
+    "image_local": "images\\genshin\\lohen.webp"
   },
   {
     "id": "10000131",
     "name": "Nicole",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nicole.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000131"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000131",
+    "image_local": "images\\genshin\\nicole.webp"
   },
   {
     "id": "10000132",
     "name": "Prune",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Prune.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000132"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000132",
+    "image_local": "images\\genshin\\prune.webp"
   },
   {
     "id": "10000130",
     "name": "Linnea",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linnea.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000130"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000130",
+    "image_local": "images\\genshin\\linnea.webp"
   },
   {
     "id": "10000128",
     "name": "Varka",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varka.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000128"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000128",
+    "image_local": "images\\genshin\\varka.webp"
   },
   {
     "id": "10000126",
     "name": "Zibai",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zibai.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000126"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000126",
+    "image_local": "images\\genshin\\zibai.webp"
   },
   {
     "id": "10000127",
     "name": "Illuga",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Illuga.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000127"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000127",
+    "image_local": "images\\genshin\\illuga.webp"
   },
   {
     "id": "10000125",
     "name": "Columbina",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Columbina.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000125"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000125",
+    "image_local": "images\\genshin\\columbina.webp"
   },
   {
     "id": "10000123",
     "name": "Durin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Durin.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000123"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000123",
+    "image_local": "images\\genshin\\durin.webp"
   },
   {
     "id": "10000124",
     "name": "Jahoda",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Jahoda.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000124"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000124",
+    "image_local": "images\\genshin\\jahoda.webp"
   },
   {
     "id": "10000122",
     "name": "Nefer",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nefer.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000122"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000122",
+    "image_local": "images\\genshin\\nefer.webp"
   },
   {
     "id": "10000120",
     "name": "Flins",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Flins.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000120"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000120",
+    "image_local": "images\\genshin\\flins.webp"
   },
   {
     "id": "10000119",
     "name": "Lauma",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lauma.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000119"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000119",
+    "image_local": "images\\genshin\\lauma.webp"
   },
   {
     "id": "10000121",
     "name": "Aino",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aino.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000121"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000121",
+    "image_local": "images\\genshin\\aino.webp"
   },
   {
     "id": "10000116",
     "name": "Ineffa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ineffa.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000116"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000116",
+    "image_local": "images\\genshin\\ineffa.webp"
   },
   {
     "id": "10000114",
     "name": "Skirk",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_SkirkNew.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000114"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000114",
+    "image_local": "images\\genshin\\skirk.webp"
   },
   {
     "id": "10000115",
     "name": "Dahlia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dahlia.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000115"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000115",
+    "image_local": "images\\genshin\\dahlia.webp"
   },
   {
     "id": "10000112",
     "name": "Escoffier",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Escoffier.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000112"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000112",
+    "image_local": "images\\genshin\\escoffier.webp"
   },
   {
     "id": "10000113",
     "name": "Ifa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ifa.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000113"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000113",
+    "image_local": "images\\genshin\\ifa.webp"
   },
   {
     "id": "10000110",
     "name": "Iansan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Iansan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000110"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000110",
+    "image_local": "images\\genshin\\iansan.webp"
   },
   {
     "id": "10000111",
     "name": "Varesa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varesa.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000111"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000111",
+    "image_local": "images\\genshin\\varesa.webp"
   },
   {
     "id": "10000109",
     "name": "Yumemizuki Mizuki",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mizuki.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000109"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000109",
+    "image_local": "images\\genshin\\yumemizuki_mizuki.webp"
   },
   {
     "id": "10000108",
     "name": "Lan Yan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lanyan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000108"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000108",
+    "image_local": "images\\genshin\\lan_yan.webp"
   },
   {
     "id": "10000005-pyro",
     "name": "Traveler Pyro",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-pyro"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-pyro",
+    "image_local": "images\\genshin\\traveler_pyro.webp"
   },
   {
     "id": "10000106",
     "name": "Mavuika",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mavuika.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000106"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000106",
+    "image_local": "images\\genshin\\mavuika.webp"
   },
   {
     "id": "10000107",
     "name": "Citlali",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Citlali.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000107"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000107",
+    "image_local": "images\\genshin\\citlali.webp"
   },
   {
     "id": "10000104",
     "name": "Chasca",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chasca.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000104"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000104",
+    "image_local": "images\\genshin\\chasca.webp"
   },
   {
     "id": "10000105",
     "name": "Ororon",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Olorun.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000105"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000105",
+    "image_local": "images\\genshin\\ororon.webp"
   },
   {
     "id": "10000103",
     "name": "Xilonen",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xilonen.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000103"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000103",
+    "image_local": "images\\genshin\\xilonen.webp"
   },
   {
     "id": "10000101",
     "name": "Kinich",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kinich.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000101"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000101",
+    "image_local": "images\\genshin\\kinich.webp"
   },
   {
     "id": "10000100",
     "name": "Kachina",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kachina.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000100"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000100",
+    "image_local": "images\\genshin\\kachina.webp"
   },
   {
     "id": "10000102",
     "name": "Mualani",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mualani.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000102"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000102",
+    "image_local": "images\\genshin\\mualani.webp"
   },
   {
     "id": "10000099",
     "name": "Emilie",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Emilie.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000099"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000099",
+    "image_local": "images\\genshin\\emilie.webp"
   },
   {
     "id": "10000095",
     "name": "Sigewinne",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sigewinne.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000095"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000095",
+    "image_local": "images\\genshin\\sigewinne.webp"
   },
   {
     "id": "10000097",
     "name": "Sethos",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sethos.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000097"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000097",
+    "image_local": "images\\genshin\\sethos.webp"
   },
   {
     "id": "10000098",
     "name": "Clorinde",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Clorinde.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000098"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000098",
+    "image_local": "images\\genshin\\clorinde.webp"
   },
   {
     "id": "10000096",
     "name": "Arlecchino",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Arlecchino.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000096"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000096",
+    "image_local": "images\\genshin\\arlecchino.webp"
   },
   {
     "id": "10000094",
     "name": "Chiori",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chiori.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000094"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000094",
+    "image_local": "images\\genshin\\chiori.webp"
   },
   {
     "id": "10000092",
     "name": "Gaming",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gaming.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000092"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000092",
+    "image_local": "images\\genshin\\gaming.webp"
   },
   {
     "id": "10000093",
     "name": "Xianyun",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liuyun.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000093"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000093",
+    "image_local": "images\\genshin\\xianyun.webp"
   },
   {
     "id": "10000090",
     "name": "Chevreuse",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chevreuse.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000090"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000090",
+    "image_local": "images\\genshin\\chevreuse.webp"
   },
   {
     "id": "10000091",
     "name": "Navia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Navia.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000091"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000091",
+    "image_local": "images\\genshin\\navia.webp"
   },
   {
     "id": "10000088",
     "name": "Charlotte",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Charlotte.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000088"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000088",
+    "image_local": "images\\genshin\\charlotte.webp"
   },
   {
     "id": "10000089",
     "name": "Furina",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Furina.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000089"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000089",
+    "image_local": "images\\genshin\\furina.webp"
   },
   {
     "id": "10000086",
     "name": "Wriothesley",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wriothesley.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000086"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000086",
+    "image_local": "images\\genshin\\wriothesley.webp"
   },
   {
     "id": "10000087",
     "name": "Neuvillette",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Neuvillette.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000087"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000087",
+    "image_local": "images\\genshin\\neuvillette.webp"
   },
   {
     "id": "10000085",
     "name": "Freminet",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Freminet.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000085"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000085",
+    "image_local": "images\\genshin\\freminet.webp"
   },
   {
     "id": "10000083",
     "name": "Lynette",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linette.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000083"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000083",
+    "image_local": "images\\genshin\\lynette.webp"
   },
   {
     "id": "10000084",
     "name": "Lyney",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liney.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000084"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000084",
+    "image_local": "images\\genshin\\lyney.webp"
   },
   {
     "id": "10000005-hydro",
     "name": "Traveler Hydro",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-hydro"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-hydro",
+    "image_local": "images\\genshin\\traveler_hydro.webp"
   },
   {
     "id": "10000061",
     "name": "Kirara",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Momoka.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000061"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000061",
+    "image_local": "images\\genshin\\kirara.webp"
   },
   {
     "id": "10000081",
     "name": "Kaveh",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaveh.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000081"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000081",
+    "image_local": "images\\genshin\\kaveh.webp"
   },
   {
     "id": "10000082",
     "name": "Baizhu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Baizhuer.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000082"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000082",
+    "image_local": "images\\genshin\\baizhu.webp"
   },
   {
     "id": "10000080",
     "name": "Mika",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mika.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000080"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000080",
+    "image_local": "images\\genshin\\mika.webp"
   },
   {
     "id": "10000079",
     "name": "Dehya",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dehya.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000079"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000079",
+    "image_local": "images\\genshin\\dehya.webp"
   },
   {
     "id": "10000077",
     "name": "Yaoyao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yaoyao.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000077"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000077",
+    "image_local": "images\\genshin\\yaoyao.webp"
   },
   {
     "id": "10000078",
     "name": "Alhaitham",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Alhatham.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000078"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000078",
+    "image_local": "images\\genshin\\alhaitham.webp"
   },
   {
     "id": "10000075",
     "name": "Wanderer",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wanderer.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000075"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000075",
+    "image_local": "images\\genshin\\wanderer.webp"
   },
   {
     "id": "10000076",
     "name": "Faruzan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Faruzan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000076"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000076",
+    "image_local": "images\\genshin\\faruzan.webp"
   },
   {
     "id": "10000074",
     "name": "Layla",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Layla.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000074"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000074",
+    "image_local": "images\\genshin\\layla.webp"
   },
   {
     "id": "10000073",
     "name": "Nahida",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nahida.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000073"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000073",
+    "image_local": "images\\genshin\\nahida.webp"
   },
   {
     "id": "10000070",
     "name": "Nilou",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nilou.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000070"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000070",
+    "image_local": "images\\genshin\\nilou.webp"
   },
   {
     "id": "10000071",
     "name": "Cyno",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Cyno.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000071"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000071",
+    "image_local": "images\\genshin\\cyno.webp"
   },
   {
     "id": "10000072",
     "name": "Candace",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Candace.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000072"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000072",
+    "image_local": "images\\genshin\\candace.webp"
   },
   {
     "id": "10000068",
     "name": "Dori",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dori.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000068"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000068",
+    "image_local": "images\\genshin\\dori.webp"
   },
   {
     "id": "10000067",
     "name": "Collei",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Collei.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000067"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000067",
+    "image_local": "images\\genshin\\collei.webp"
   },
   {
     "id": "10000069",
     "name": "Tighnari",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tighnari.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000069"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000069",
+    "image_local": "images\\genshin\\tighnari.webp"
   },
   {
     "id": "10000059",
     "name": "Shikanoin Heizou",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Heizo.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000059"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000059",
+    "image_local": "images\\genshin\\shikanoin_heizou.webp"
   },
   {
     "id": "10000005-dendro",
     "name": "Traveler Dendro",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Dendro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-dendro"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-dendro",
+    "image_local": "images\\genshin\\traveler_dendro.webp"
   },
   {
     "id": "10000065",
     "name": "Kuki Shinobu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shinobu.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000065"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000065",
+    "image_local": "images\\genshin\\kuki_shinobu.webp"
   },
   {
     "id": "10000060",
     "name": "Yelan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yelan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000060"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000060",
+    "image_local": "images\\genshin\\yelan.webp"
   },
   {
     "id": "10000066",
     "name": "Kamisato Ayato",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayato.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000066"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000066",
+    "image_local": "images\\genshin\\kamisato_ayato.webp"
   },
   {
     "id": "10000058",
     "name": "Yae Miko",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yae.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000058"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000058",
+    "image_local": "images\\genshin\\yae_miko.webp"
   },
   {
     "id": "10000063",
     "name": "Shenhe",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shenhe.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000063"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000063",
+    "image_local": "images\\genshin\\shenhe.webp"
   },
   {
     "id": "10000064",
     "name": "Yun Jin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yunjin.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000064"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000064",
+    "image_local": "images\\genshin\\yun_jin.webp"
   },
   {
     "id": "10000055",
     "name": "Gorou",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gorou.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000055"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000055",
+    "image_local": "images\\genshin\\gorou.webp"
   },
   {
     "id": "10000057",
     "name": "Arataki Itto",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Itto.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000057"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000057",
+    "image_local": "images\\genshin\\arataki_itto.webp"
   },
   {
     "id": "10000050",
     "name": "Thoma",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tohma.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000050"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000050",
+    "image_local": "images\\genshin\\thoma.webp"
   },
   {
     "id": "10000054",
     "name": "Sangonomiya Kokomi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kokomi.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000054"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000054",
+    "image_local": "images\\genshin\\sangonomiya_kokomi.webp"
   },
   {
     "id": "10000052",
     "name": "Raiden Shogun",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shougun.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000052"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000052",
+    "image_local": "images\\genshin\\raiden_shogun.webp"
   },
   {
     "id": "10000056",
     "name": "Kujou Sara",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sara.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000056"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000056",
+    "image_local": "images\\genshin\\kujou_sara.webp"
   },
   {
     "id": "10000062",
     "name": "Aloy",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aloy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000062"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000062",
+    "image_local": "images\\genshin\\aloy.webp"
   },
   {
     "id": "10000049",
     "name": "Yoimiya",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yoimiya.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000049"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000049",
+    "image_local": "images\\genshin\\yoimiya.webp"
   },
   {
     "id": "10000053",
     "name": "Sayu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sayu.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000053"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000053",
+    "image_local": "images\\genshin\\sayu.webp"
   },
   {
     "id": "10000002",
     "name": "Kamisato Ayaka",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayaka.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000002"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000002",
+    "image_local": "images\\genshin\\kamisato_ayaka.webp"
   },
   {
     "id": "10000005-electro",
     "name": "Traveler Electro",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-electro"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-electro",
+    "image_local": "images\\genshin\\traveler_electro.webp"
   },
   {
     "id": "10000047",
     "name": "Kaedehara Kazuha",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kazuha.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000047"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000047",
+    "image_local": "images\\genshin\\kaedehara_kazuha.webp"
   },
   {
     "id": "10000051",
     "name": "Eula",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Eula.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000051"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000051",
+    "image_local": "images\\genshin\\eula.webp"
   },
   {
     "id": "10000048",
     "name": "Yanfei",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Feiyan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000048"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000048",
+    "image_local": "images\\genshin\\yanfei.webp"
   },
   {
     "id": "10000045",
     "name": "Rosaria",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Rosaria.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000045"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000045",
+    "image_local": "images\\genshin\\rosaria.webp"
   },
   {
     "id": "10000046",
     "name": "Hu Tao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Hutao.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000046"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000046",
+    "image_local": "images\\genshin\\hu_tao.webp"
   },
   {
     "id": "10000026",
     "name": "Xiao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiao.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000026"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000026",
+    "image_local": "images\\genshin\\xiao.webp"
   },
   {
     "id": "10000037",
     "name": "Ganyu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ganyu.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000037"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000037",
+    "image_local": "images\\genshin\\ganyu.webp"
   },
   {
     "id": "10000038",
     "name": "Albedo",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Albedo.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000038"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000038",
+    "image_local": "images\\genshin\\albedo.webp"
   },
   {
     "id": "10000030",
     "name": "Zhongli",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zhongli.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000030"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000030",
+    "image_local": "images\\genshin\\zhongli.webp"
   },
   {
     "id": "10000044",
     "name": "Xinyan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xinyan.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000044"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000044",
+    "image_local": "images\\genshin\\xinyan.webp"
   },
   {
     "id": "10000033",
     "name": "Tartaglia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tartaglia.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000033"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000033",
+    "image_local": "images\\genshin\\tartaglia.webp"
   },
   {
     "id": "10000039",
     "name": "Diona",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diona.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000039"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000039",
+    "image_local": "images\\genshin\\diona.webp"
   },
   {
     "id": "10000003",
     "name": "Jean",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qin.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000003"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000003",
+    "image_local": "images\\genshin\\jean.webp"
   },
   {
     "id": "10000006",
     "name": "Lisa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lisa.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000006"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000006",
+    "image_local": "images\\genshin\\lisa.webp"
   },
   {
     "id": "10000014",
     "name": "Barbara",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Barbara.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000014"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000014",
+    "image_local": "images\\genshin\\barbara.webp"
   },
   {
     "id": "10000015",
     "name": "Kaeya",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaeya.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000015"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000015",
+    "image_local": "images\\genshin\\kaeya.webp"
   },
   {
     "id": "10000016",
     "name": "Diluc",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diluc.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000016"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000016",
+    "image_local": "images\\genshin\\diluc.webp"
   },
   {
     "id": "10000020",
     "name": "Razor",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Razor.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000020"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000020",
+    "image_local": "images\\genshin\\razor.webp"
   },
   {
     "id": "10000021",
     "name": "Amber",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ambor.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000021"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000021",
+    "image_local": "images\\genshin\\amber.webp"
   },
   {
     "id": "10000022",
     "name": "Venti",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Venti.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000022"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000022",
+    "image_local": "images\\genshin\\venti.webp"
   },
   {
     "id": "10000023",
     "name": "Xiangling",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": null,
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiangling.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000023"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000023",
+    "image_local": "images\\genshin\\xiangling.webp"
   },
   {
     "id": "10000024",
     "name": "Beidou",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Beidou.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000024"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000024",
+    "image_local": "images\\genshin\\beidou.webp"
   },
   {
     "id": "10000025",
     "name": "Xingqiu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xingqiu.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000025"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000025",
+    "image_local": "images\\genshin\\xingqiu.webp"
   },
   {
     "id": "10000027",
     "name": "Ningguang",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ningguang.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000027"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000027",
+    "image_local": "images\\genshin\\ningguang.webp"
   },
   {
     "id": "10000029",
     "name": "Klee",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Klee.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000029"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000029",
+    "image_local": "images\\genshin\\klee.webp"
   },
   {
     "id": "10000031",
     "name": "Fischl",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Bow",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Fischl.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000031"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000031",
+    "image_local": "images\\genshin\\fischl.webp"
   },
   {
     "id": "10000032",
     "name": "Bennett",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Pyro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Bennett.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000032"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000032",
+    "image_local": "images\\genshin\\bennett.webp"
   },
   {
     "id": "10000034",
     "name": "Noelle",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Noel.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000034"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000034",
+    "image_local": "images\\genshin\\noelle.webp"
   },
   {
     "id": "10000035",
     "name": "Qiqi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qiqi.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000035"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000035",
+    "image_local": "images\\genshin\\qiqi.webp"
   },
   {
     "id": "10000036",
     "name": "Chongyun",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Cryo",
+    "weapon": "Claymore",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chongyun.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000036"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000036",
+    "image_local": "images\\genshin\\chongyun.webp"
   },
   {
     "id": "10000041",
     "name": "Mona",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Hydro",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mona.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000041"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000041",
+    "image_local": "images\\genshin\\mona.webp"
   },
   {
     "id": "10000042",
     "name": "Keqing",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electro",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Keqing.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000042"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000042",
+    "image_local": "images\\genshin\\keqing.webp"
   },
   {
     "id": "10000043",
     "name": "Sucrose",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Catalyst",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sucrose.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000043"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000043",
+    "image_local": "images\\genshin\\sucrose.webp"
   },
   {
     "id": "10000005-anemo",
     "name": "Traveler Anemo",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Anemo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-anemo"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-anemo",
+    "image_local": "images\\genshin\\traveler_anemo.webp"
   },
   {
     "id": "10000005-geo",
     "name": "Traveler Geo",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Geo",
+    "weapon": "Sword",
     "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-    "page_url": "https://genshin.akademiya.app/en/characters/10000005-geo"
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-geo",
+    "image_local": "images\\genshin\\traveler_geo.webp"
   }
 ]

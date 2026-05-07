@@ -3,8 +3,8 @@
     "id": "1571",
     "name": "Norma",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1571"
   },
@@ -13,485 +13,539 @@
     "name": "Velina",
     "rarity": 5,
     "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/zzz/.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1561"
+    "specialty": "Anomaly",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconWind.webp",
+    "page_url": "https://zzz.akademiya.app/en/characters/1561",
+    "image_local": "images\\zzz\\velina.webp"
   },
   {
     "id": "1401",
     "name": "Alice",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop46.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1401"
+    "page_url": "https://zzz.akademiya.app/en/characters/1401",
+    "image_local": "images\\zzz\\alice.webp"
   },
   {
     "id": "1011",
     "name": "Anby",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop01.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1011"
+    "page_url": "https://zzz.akademiya.app/en/characters/1011",
+    "image_local": "images\\zzz\\anby.webp"
   },
   {
     "id": "1381",
     "name": "Anby",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop40.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1381"
+    "page_url": "https://zzz.akademiya.app/en/characters/1381",
+    "image_local": "images\\zzz\\anby.webp"
   },
   {
     "id": "1111",
     "name": "Anton",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop15.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1111"
+    "page_url": "https://zzz.akademiya.app/en/characters/1111",
+    "image_local": "images\\zzz\\anton.webp"
   },
   {
     "id": "1501",
     "name": "Aria",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop57.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1501"
+    "page_url": "https://zzz.akademiya.app/en/characters/1501",
+    "image_local": "images\\zzz\\aria.webp"
   },
   {
     "id": "1311",
     "name": "Astra Yao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop36.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1311"
+    "page_url": "https://zzz.akademiya.app/en/characters/1311",
+    "image_local": "images\\zzz\\astra_yao.webp"
   },
   {
     "id": "1471",
     "name": "Banyue",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Rupture",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop53.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1471"
+    "page_url": "https://zzz.akademiya.app/en/characters/1471",
+    "image_local": "images\\zzz\\banyue.webp"
   },
   {
     "id": "1121",
     "name": "Ben",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Defense",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop16.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1121"
+    "page_url": "https://zzz.akademiya.app/en/characters/1121",
+    "image_local": "images\\zzz\\ben.webp"
   },
   {
     "id": "1081",
     "name": "Billy",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop10.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1081"
+    "page_url": "https://zzz.akademiya.app/en/characters/1081",
+    "image_local": "images\\zzz\\billy.webp"
   },
   {
     "id": "1531",
     "name": "Billy",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Rupture",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop62.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1531"
+    "page_url": "https://zzz.akademiya.app/en/characters/1531",
+    "image_local": "images\\zzz\\billy.webp"
   },
   {
     "id": "1171",
     "name": "Burnice",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop32.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1171"
+    "page_url": "https://zzz.akademiya.app/en/characters/1171",
+    "image_local": "images\\zzz\\burnice.webp"
   },
   {
     "id": "1071",
     "name": "Caesar",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Defense",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop25.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1071"
+    "page_url": "https://zzz.akademiya.app/en/characters/1071",
+    "image_local": "images\\zzz\\caesar.webp"
   },
   {
     "id": "1521",
     "name": "Cissia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop60.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1521"
+    "page_url": "https://zzz.akademiya.app/en/characters/1521",
+    "image_local": "images\\zzz\\cissia.webp"
   },
   {
     "id": "1061",
     "name": "Corin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop09.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1061"
+    "page_url": "https://zzz.akademiya.app/en/characters/1061",
+    "image_local": "images\\zzz\\corin.webp"
   },
   {
     "id": "1481",
     "name": "Dialyn",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop54.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1481"
+    "page_url": "https://zzz.akademiya.app/en/characters/1481",
+    "image_local": "images\\zzz\\dialyn.webp"
   },
   {
     "id": "1191",
     "name": "Ellen",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop21.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1191"
+    "page_url": "https://zzz.akademiya.app/en/characters/1191",
+    "image_local": "images\\zzz\\ellen.webp"
   },
   {
     "id": "1321",
     "name": "Evelyn",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop37.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1321"
+    "page_url": "https://zzz.akademiya.app/en/characters/1321",
+    "image_local": "images\\zzz\\evelyn.webp"
   },
   {
     "id": "1181",
     "name": "Grace",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop20.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1181"
+    "page_url": "https://zzz.akademiya.app/en/characters/1181",
+    "image_local": "images\\zzz\\grace.webp"
   },
   {
     "id": "1201",
     "name": "Harumasa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop35.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1201"
+    "page_url": "https://zzz.akademiya.app/en/characters/1201",
+    "image_local": "images\\zzz\\harumasa.webp"
   },
   {
     "id": "1291",
     "name": "Hugo",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop42.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1291"
+    "page_url": "https://zzz.akademiya.app/en/characters/1291",
+    "image_local": "images\\zzz\\hugo.webp"
   },
   {
     "id": "1261",
     "name": "Jane",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop24.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1261"
+    "page_url": "https://zzz.akademiya.app/en/characters/1261",
+    "image_local": "images\\zzz\\jane.webp"
   },
   {
     "id": "1391",
     "name": "Ju Fufu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop43.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1391"
+    "page_url": "https://zzz.akademiya.app/en/characters/1391",
+    "image_local": "images\\zzz\\ju_fufu.webp"
   },
   {
     "id": "1101",
     "name": "Koleda",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop14.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1101"
+    "page_url": "https://zzz.akademiya.app/en/characters/1101",
+    "image_local": "images\\zzz\\koleda.webp"
   },
   {
     "id": "1161",
     "name": "Lighter",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop26.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1161"
+    "page_url": "https://zzz.akademiya.app/en/characters/1161",
+    "image_local": "images\\zzz\\lighter.webp"
   },
   {
     "id": "1451",
     "name": "Lucia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop50.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1451"
+    "page_url": "https://zzz.akademiya.app/en/characters/1451",
+    "image_local": "images\\zzz\\lucia.webp"
   },
   {
     "id": "1151",
     "name": "Lucy",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop27.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1151"
+    "page_url": "https://zzz.akademiya.app/en/characters/1151",
+    "image_local": "images\\zzz\\lucy.webp"
   },
   {
     "id": "1141",
     "name": "Lycaon",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop18.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1141"
+    "page_url": "https://zzz.akademiya.app/en/characters/1141",
+    "image_local": "images\\zzz\\lycaon.webp"
   },
   {
     "id": "1441",
     "name": "Manato",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Rupture",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop51.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1441"
+    "page_url": "https://zzz.akademiya.app/en/characters/1441",
+    "image_local": "images\\zzz\\manato.webp"
   },
   {
     "id": "1091",
     "name": "Miyabi",
     "rarity": 5,
     "element": null,
-    "specialty": null,
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop13.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1091"
+    "page_url": "https://zzz.akademiya.app/en/characters/1091",
+    "image_local": "images\\zzz\\miyabi.webp"
   },
   {
     "id": "1511",
     "name": "Nangong Yu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop59.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1511"
+    "page_url": "https://zzz.akademiya.app/en/characters/1511",
+    "image_local": "images\\zzz\\nangong_yu.webp"
   },
   {
     "id": "1021",
     "name": "Nekomata",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop11.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1021"
+    "page_url": "https://zzz.akademiya.app/en/characters/1021",
+    "image_local": "images\\zzz\\nekomata.webp"
   },
   {
     "id": "1031",
     "name": "Nicole",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop12.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1031"
+    "page_url": "https://zzz.akademiya.app/en/characters/1031",
+    "image_local": "images\\zzz\\nicole.webp"
   },
   {
     "id": "1301",
     "name": "Orphie & Magus",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop49.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1301"
+    "page_url": "https://zzz.akademiya.app/en/characters/1301",
+    "image_local": "images\\zzz\\orphie_magus.webp"
   },
   {
     "id": "1421",
     "name": "Pan Yinhu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Defense",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop45.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1421"
+    "page_url": "https://zzz.akademiya.app/en/characters/1421",
+    "image_local": "images\\zzz\\pan_yinhu.webp"
   },
   {
     "id": "1281",
     "name": "Piper",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop28.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1281"
+    "page_url": "https://zzz.akademiya.app/en/characters/1281",
+    "image_local": "images\\zzz\\piper.webp"
   },
   {
     "id": "1541",
     "name": "Promeia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop61.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1541"
+    "page_url": "https://zzz.akademiya.app/en/characters/1541",
+    "image_local": "images\\zzz\\promeia.webp"
   },
   {
     "id": "1351",
     "name": "Pulchra",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop38.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1351"
+    "page_url": "https://zzz.akademiya.app/en/characters/1351",
+    "image_local": "images\\zzz\\pulchra.webp"
   },
   {
     "id": "1251",
     "name": "Qingyi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop29.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1251"
+    "page_url": "https://zzz.akademiya.app/en/characters/1251",
+    "image_local": "images\\zzz\\qingyi.webp"
   },
   {
     "id": "1211",
     "name": "Rina",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop22.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1211"
+    "page_url": "https://zzz.akademiya.app/en/characters/1211",
+    "image_local": "images\\zzz\\rina.webp"
   },
   {
     "id": "1461",
     "name": "Seed",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop48.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1461"
+    "page_url": "https://zzz.akademiya.app/en/characters/1461",
+    "image_local": "images\\zzz\\seed.webp"
   },
   {
     "id": "1271",
     "name": "Seth",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Defense",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop30.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1271"
+    "page_url": "https://zzz.akademiya.app/en/characters/1271",
+    "image_local": "images\\zzz\\seth.webp"
   },
   {
     "id": "1041",
     "name": "Soldier 11",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Fire",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop05.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1041"
+    "page_url": "https://zzz.akademiya.app/en/characters/1041",
+    "image_local": "images\\zzz\\soldier_11.webp"
   },
   {
     "id": "1131",
     "name": "Soukaku",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop17.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1131"
+    "page_url": "https://zzz.akademiya.app/en/characters/1131",
+    "image_local": "images\\zzz\\soukaku.webp"
   },
   {
     "id": "1491",
     "name": "Sunna",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop58.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1491"
+    "page_url": "https://zzz.akademiya.app/en/characters/1491",
+    "image_local": "images\\zzz\\sunna.webp"
   },
   {
     "id": "1361",
     "name": "Trigger",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Stun",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop39.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1361"
+    "page_url": "https://zzz.akademiya.app/en/characters/1361",
+    "image_local": "images\\zzz\\trigger.webp"
   },
   {
     "id": "1331",
     "name": "Vivian",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop41.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1331"
+    "page_url": "https://zzz.akademiya.app/en/characters/1331",
+    "image_local": "images\\zzz\\vivian.webp"
   },
   {
     "id": "1221",
     "name": "Yanagi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Electric",
+    "specialty": "Anomaly",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop31.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1221"
+    "page_url": "https://zzz.akademiya.app/en/characters/1221",
+    "image_local": "images\\zzz\\yanagi.webp"
   },
   {
     "id": "1431",
     "name": "Ye Shunguang",
     "rarity": 5,
     "element": null,
-    "specialty": null,
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop55.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1431"
+    "page_url": "https://zzz.akademiya.app/en/characters/1431",
+    "image_local": "images\\zzz\\ye_shunguang.webp"
   },
   {
     "id": "1051",
     "name": "Yidhari",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Rupture",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop52.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1051"
+    "page_url": "https://zzz.akademiya.app/en/characters/1051",
+    "image_local": "images\\zzz\\yidhari.webp"
   },
   {
     "id": "1371",
     "name": "Yixuan",
     "rarity": 5,
     "element": null,
-    "specialty": null,
+    "specialty": "Rupture",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop44.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1371"
+    "page_url": "https://zzz.akademiya.app/en/characters/1371",
+    "image_local": "images\\zzz\\yixuan.webp"
   },
   {
     "id": "1411",
     "name": "Yuzuha",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Physical",
+    "specialty": "Support",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop47.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1411"
+    "page_url": "https://zzz.akademiya.app/en/characters/1411",
+    "image_local": "images\\zzz\\yuzuha.webp"
   },
   {
     "id": "1341",
     "name": "Zhao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ice",
+    "specialty": "Defense",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop56.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1341"
+    "page_url": "https://zzz.akademiya.app/en/characters/1341",
+    "image_local": "images\\zzz\\zhao.webp"
   },
   {
     "id": "1241",
     "name": "Zhu Yuan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
+    "element": "Ether",
+    "specialty": "Attack",
     "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop23.webp",
-    "page_url": "https://zzz.akademiya.app/en/characters/1241"
+    "page_url": "https://zzz.akademiya.app/en/characters/1241",
+    "image_local": "images\\zzz\\zhu_yuan.webp"
   }
 ]

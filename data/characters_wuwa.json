@@ -3,490 +3,490 @@
     "id": "1403",
     "name": "Aalto",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Aero",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1403/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1403",
-    "image_url_encore": "https://api-v2.encore.moe/role/1403/icon"
+    "image_local": "images\\wuwa\\aalto.webp"
   },
   {
     "id": "1210",
     "name": "Aemeath",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Fusion",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1210/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1210",
-    "image_url_encore": "https://api-v2.encore.moe/role/1210/icon"
+    "image_local": "images\\wuwa\\aemeath.webp"
   },
   {
     "id": "1306",
     "name": "Augusta",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Electro",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1306/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1306",
-    "image_url_encore": "https://api-v2.encore.moe/role/1306/icon"
+    "image_local": "images\\wuwa\\augusta.webp"
   },
   {
     "id": "1103",
     "name": "Baizhi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Glacio",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1103/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1103",
-    "image_url_encore": "https://api-v2.encore.moe/role/1103/icon"
+    "image_local": "images\\wuwa\\baizhi.webp"
   },
   {
     "id": "1206",
     "name": "Brant",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Fusion",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1206/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1206",
-    "image_url_encore": "https://api-v2.encore.moe/role/1206/icon"
+    "image_local": "images\\wuwa\\brant.webp"
   },
   {
     "id": "1307",
     "name": "Buling",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Electro",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1307/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1307",
-    "image_url_encore": "https://api-v2.encore.moe/role/1307/icon"
+    "image_local": "images\\wuwa\\buling.webp"
   },
   {
     "id": "1301",
     "name": "Calcharo",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Electro",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1301/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1301",
-    "image_url_encore": "https://api-v2.encore.moe/role/1301/icon"
+    "image_local": "images\\wuwa\\calcharo.webp"
   },
   {
     "id": "1603",
     "name": "Camellya",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Havoc",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1603/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1603",
-    "image_url_encore": "https://api-v2.encore.moe/role/1603/icon"
+    "image_local": "images\\wuwa\\camellya.webp"
   },
   {
     "id": "1607",
     "name": "Cantarella",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Havoc",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1607/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1607",
-    "image_url_encore": "https://api-v2.encore.moe/role/1607/icon"
+    "image_local": "images\\wuwa\\cantarella.webp"
   },
   {
     "id": "1107",
     "name": "Carlotta",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Glacio",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1107/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1107",
-    "image_url_encore": "https://api-v2.encore.moe/role/1107/icon"
+    "image_local": "images\\wuwa\\carlotta.webp"
   },
   {
     "id": "1409",
     "name": "Cartethyia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Aero",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1409/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1409",
-    "image_url_encore": "https://api-v2.encore.moe/role/1409/icon"
+    "image_local": "images\\wuwa\\cartethyia.webp"
   },
   {
     "id": "1205",
     "name": "Changli",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Fusion",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1205/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1205",
-    "image_url_encore": "https://api-v2.encore.moe/role/1205/icon"
+    "image_local": "images\\wuwa\\changli.webp"
   },
   {
     "id": "1508",
     "name": "Chisa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Havoc",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1508/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1508",
-    "image_url_encore": "https://api-v2.encore.moe/role/1508/icon"
+    "image_local": "images\\wuwa\\chisa.webp"
   },
   {
     "id": "1202",
     "name": "Chixia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Fusion",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1202/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1202",
-    "image_url_encore": "https://api-v2.encore.moe/role/1202/icon"
+    "image_local": "images\\wuwa\\chixia.webp"
   },
   {
     "id": "1407",
     "name": "Ciaccona",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Aero",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1407/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1407",
-    "image_url_encore": "https://api-v2.encore.moe/role/1407/icon"
+    "image_local": "images\\wuwa\\ciaccona.webp"
   },
   {
     "id": "1602",
     "name": "Danjin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Havoc",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1602/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1602",
-    "image_url_encore": "https://api-v2.encore.moe/role/1602/icon"
+    "image_local": "images\\wuwa\\danjin.webp"
   },
   {
     "id": "1203",
     "name": "Encore",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Fusion",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1203/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1203",
-    "image_url_encore": "https://api-v2.encore.moe/role/1203/icon"
+    "image_local": "images\\wuwa\\encore.webp"
   },
   {
     "id": "1208",
     "name": "Galbrena",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Fusion",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1208/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1208",
-    "image_url_encore": "https://api-v2.encore.moe/role/1208/icon"
+    "image_local": "images\\wuwa\\galbrena.webp"
   },
   {
     "id": "1108",
     "name": "Hiyuki",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Glacio",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1108/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1108",
-    "image_url_encore": "https://api-v2.encore.moe/role/1108/icon"
+    "image_local": "images\\wuwa\\hiyuki.webp"
   },
   {
     "id": "1410",
     "name": "Iuno",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Aero",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1410/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1410",
-    "image_url_encore": "https://api-v2.encore.moe/role/1410/icon"
+    "image_local": "images\\wuwa\\iuno.webp"
   },
   {
     "id": "1405",
     "name": "Jianxin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Aero",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1405/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1405",
-    "image_url_encore": "https://api-v2.encore.moe/role/1405/icon"
+    "image_local": "images\\wuwa\\jianxin.webp"
   },
   {
     "id": "1304",
     "name": "Jinhsi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Spectro",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1304/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1304",
-    "image_url_encore": "https://api-v2.encore.moe/role/1304/icon"
+    "image_local": "images\\wuwa\\jinhsi.webp"
   },
   {
     "id": "1404",
     "name": "Jiyan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Aero",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1404/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1404",
-    "image_url_encore": "https://api-v2.encore.moe/role/1404/icon"
+    "image_local": "images\\wuwa\\jiyan.webp"
   },
   {
     "id": "1104",
     "name": "Lingyang",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Glacio",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1104/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1104",
-    "image_url_encore": "https://api-v2.encore.moe/role/1104/icon"
+    "image_local": "images\\wuwa\\lingyang.webp"
   },
   {
     "id": "1504",
     "name": "Lumi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Electro",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1504/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1504",
-    "image_url_encore": "https://api-v2.encore.moe/role/1504/icon"
+    "image_local": "images\\wuwa\\lumi.webp"
   },
   {
     "id": "1207",
     "name": "Lupa",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Fusion",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1207/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1207",
-    "image_url_encore": "https://api-v2.encore.moe/role/1207/icon"
+    "image_local": "images\\wuwa\\lupa.webp"
   },
   {
     "id": "1510",
     "name": "Luuk Herssen",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Spectro",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1510/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1510",
-    "image_url_encore": "https://api-v2.encore.moe/role/1510/icon"
+    "image_local": "images\\wuwa\\luuk_herssen.webp"
   },
   {
     "id": "1509",
     "name": "Lynae",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Spectro",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1509/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1509",
-    "image_url_encore": "https://api-v2.encore.moe/role/1509/icon"
+    "image_local": "images\\wuwa\\lynae.webp"
   },
   {
     "id": "1209",
     "name": "Mornye",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Fusion",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1209/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1209",
-    "image_url_encore": "https://api-v2.encore.moe/role/1209/icon"
+    "image_local": "images\\wuwa\\mornye.webp"
   },
   {
     "id": "1204",
     "name": "Mortefi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorGun.webp",
+    "element": "Fusion",
+    "weapon": "Pistols",
+    "image_url": "https://api-v2.encore.moe/role/1204/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1204",
-    "image_url_encore": "https://api-v2.encore.moe/role/1204/icon"
+    "image_local": "images\\wuwa\\mortefi.webp"
   },
   {
     "id": "1506",
     "name": "Phoebe",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1506/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1506",
-    "image_url_encore": "https://api-v2.encore.moe/role/1506/icon"
+    "image_local": "images\\wuwa\\phoebe.webp"
   },
   {
     "id": "1608",
     "name": "Phrolova",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Havoc",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1608/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1608",
-    "image_url_encore": "https://api-v2.encore.moe/role/1608/icon"
+    "image_local": "images\\wuwa\\phrolova.webp"
   },
   {
     "id": "1411",
     "name": "Qiuyuan",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Aero",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1411/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1411",
-    "image_url_encore": "https://api-v2.encore.moe/role/1411/icon"
+    "image_local": "images\\wuwa\\qiuyuan.webp"
   },
   {
     "id": "1606",
     "name": "Roccia",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Havoc",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1606/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1606",
-    "image_url_encore": "https://api-v2.encore.moe/role/1606/icon"
+    "image_local": "images\\wuwa\\roccia.webp"
   },
   {
     "id": "1408",
     "name": "Rover: Aero",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Aero",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1408/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1408",
-    "image_url_encore": "https://api-v2.encore.moe/role/1408/icon"
+    "image_local": "images\\wuwa\\rover_aero.webp"
   },
   {
     "id": "1604",
     "name": "Rover: Havoc",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Havoc",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1604/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1604",
-    "image_url_encore": "https://api-v2.encore.moe/role/1604/icon"
+    "image_local": "images\\wuwa\\rover_havoc.webp"
   },
   {
     "id": "1502",
     "name": "Rover: Spectro",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Spectro",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1502/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1502",
-    "image_url_encore": "https://api-v2.encore.moe/role/1502/icon"
+    "image_local": "images\\wuwa\\rover_spectro.webp"
   },
   {
     "id": "1102",
     "name": "Sanhua",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Glacio",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1102/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1102",
-    "image_url_encore": "https://api-v2.encore.moe/role/1102/icon"
+    "image_local": "images\\wuwa\\sanhua.webp"
   },
   {
     "id": "1505",
     "name": "Shorekeeper",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1505/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1505",
-    "image_url_encore": "https://api-v2.encore.moe/role/1505/icon"
+    "image_local": "images\\wuwa\\shorekeeper.webp"
   },
   {
     "id": "1412",
     "name": "Sigrika",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Aero",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1412/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1412",
-    "image_url_encore": "https://api-v2.encore.moe/role/1412/icon"
+    "image_local": "images\\wuwa\\sigrika.webp"
   },
   {
     "id": "1601",
     "name": "Taoqi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorSword.webp",
+    "element": "Havoc",
+    "weapon": "Broadblade",
+    "image_url": "https://api-v2.encore.moe/role/1601/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1601",
-    "image_url_encore": "https://api-v2.encore.moe/role/1601/icon"
+    "image_local": "images\\wuwa\\taoqi.webp"
   },
   {
     "id": "1503",
     "name": "Verina",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Spectro",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1503/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1503",
-    "image_url_encore": "https://api-v2.encore.moe/role/1503/icon"
+    "image_local": "images\\wuwa\\verina.webp"
   },
   {
     "id": "1305",
     "name": "Xiangli Yao",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Electro",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1305/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1305",
-    "image_url_encore": "https://api-v2.encore.moe/role/1305/icon"
+    "image_local": "images\\wuwa\\xiangli_yao.webp"
   },
   {
     "id": "1402",
     "name": "Yangyang",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorKnife.webp",
+    "element": "Aero",
+    "weapon": "Sword",
+    "image_url": "https://api-v2.encore.moe/role/1402/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1402",
-    "image_url_encore": "https://api-v2.encore.moe/role/1402/icon"
+    "image_local": "images\\wuwa\\yangyang.webp"
   },
   {
     "id": "1302",
     "name": "Yinlin",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Electro",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1302/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1302",
-    "image_url_encore": "https://api-v2.encore.moe/role/1302/icon"
+    "image_local": "images\\wuwa\\yinlin.webp"
   },
   {
     "id": "1106",
     "name": "Youhu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Glacio",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1106/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1106",
-    "image_url_encore": "https://api-v2.encore.moe/role/1106/icon"
+    "image_local": "images\\wuwa\\youhu.webp"
   },
   {
     "id": "1303",
     "name": "Yuanwu",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Electro",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1303/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1303",
-    "image_url_encore": "https://api-v2.encore.moe/role/1303/icon"
+    "image_local": "images\\wuwa\\yuanwu.webp"
   },
   {
     "id": "1507",
     "name": "Zani",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorFist.webp",
+    "element": "Spectro",
+    "weapon": "Gauntlets",
+    "image_url": "https://api-v2.encore.moe/role/1507/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1507",
-    "image_url_encore": "https://api-v2.encore.moe/role/1507/icon"
+    "image_local": "images\\wuwa\\zani.webp"
   },
   {
     "id": "1105",
     "name": "Zhezhi",
     "rarity": 5,
-    "element": null,
-    "specialty": null,
-    "image_url": "https://static.nanoka.cc/assets/ww/Static/SP_IconNorMagic.webp",
+    "element": "Glacio",
+    "weapon": "Rectifier",
+    "image_url": "https://api-v2.encore.moe/role/1105/icon",
     "page_url": "https://wuwa.akademiya.app/en/characters/1105",
-    "image_url_encore": "https://api-v2.encore.moe/role/1105/icon"
+    "image_local": "images\\wuwa\\zhezhi.webp"
   }
 ]
