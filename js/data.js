@@ -41,6 +41,13 @@ const ELEMENT_EMOJI = {
   Glacio:'❄️', Fusion:'🔥', Aero:'🌬️', Spectro:'🌟', Havoc:'🌑',
 };
 
+const SPECIALTY_KEY = {
+  genshin: 'weapon',
+  hsr: 'path',
+  zzz: 'specialty',
+  wuwa: 'weapon',
+};
+
 // Will hold loaded data
 let ALL_CHARS = {};
 
