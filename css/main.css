@@ -29,11 +29,11 @@
 
   --ease: cubic-bezier(.4,0,.2,1);
 
-  --card-size:   96px;
-  --avatar-size: 68px;
+  --card-size:   144px;
+  --avatar-size: 102px;
 }
 
-html { scroll-behavior: smooth; font-size: 15px; }
+html { scroll-behavior: smooth; font-size: 22.5px; }
 
 body {
   font-family: var(--font-body);
