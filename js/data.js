@@ -40,6 +40,14 @@ const SPECIALTY_KEY = {
   wuwa: 'weapon',
 };
 
+// Icon filename prefix per game (e.g. GI_Pyro.svg)
+const GAME_PREFIX = {
+  genshin: 'GI',
+  hsr: 'HSR',
+  zzz: 'ZZZ',
+  wuwa: 'WW',
+};
+
 // Human-readable label for the specialty field per game
 const SPECIALTY_LABEL = {
   genshin: 'Weapon',
@@ -56,11 +64,18 @@ const ELEMENT_EMOJI = {
   Glacio:'❄️', Fusion:'🔥', Aero:'🌬️', Spectro:'🌟', Havoc:'🌑',
 };
 
-const SPECIALTY_KEY = {
-  genshin: 'weapon',
-  hsr: 'path',
-  zzz: 'specialty',
-  wuwa: 'weapon',
+// Fallback emoji for specialty/weapon/path (when image fails)
+const SPECIALTY_EMOJI = {
+  // GI weapons
+  Sword:'⚔️', Claymore:'🗡️', Pole:'🪄', Bow:'🏹', Catalyst:'📿',
+  // HSR paths
+  'The Hunt':'🎯', Erudition:'📚', Harmony:'🎵', Nihility:'🌑',
+  Preservation:'🛡️', Abundance:'💚', Destruction:'💥', Remembrance:'💭',
+  Elation:'😊', Propagation:'💫', 'Follow-up':'⚡',
+  // ZZZ
+  Attack:'⚔️', Stun:'⚡', Anomaly:'❓', Support:'💙', Defense:'🛡️', Rupture:'💢',
+  // WuWa
+  Broadblade:'🗡️', Pistols:'🔫', Gauntlets:'👊', Rectifier:'🔮',
 };
 
 // Will hold loaded data
