@@ -1,2098 +1,2098 @@
 {
   "genshin": [
-    {
-      "id": "10000024",
-      "name": "Beidou",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Beidou.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000024",
-      "image_local": "images\\genshin\\beidou.webp"
-    },
-    {
-      "id": "10000035",
-      "name": "Qiqi",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qiqi.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000035",
-      "image_local": "images\\genshin\\qiqi.webp"
-    },
-    {
-      "id": "10000039",
-      "name": "Diona",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diona.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000039",
-      "image_local": "images\\genshin\\diona.webp"
-    },
-    {
-      "id": "10000058",
-      "name": "Yae Miko",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yae.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000058",
-      "image_local": "images\\genshin\\yae_miko.webp"
-    },
-    {
-      "id": "10000071",
-      "name": "Cyno",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Cyno.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000071",
-      "image_local": "images\\genshin\\cyno.webp"
-    },
-    {
-      "id": "10000086",
-      "name": "Wriothesley",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wriothesley.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000086",
-      "image_local": "images\\genshin\\wriothesley.webp"
-    },
-    {
-      "id": "10000109",
-      "name": "Yumemizuki Mizuki",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mizuki.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000109",
-      "image_local": "images\\genshin\\yumemizuki_mizuki.webp"
-    },
-    {
-      "id": "10000129",
-      "name": "Lohen",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lohen.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000129",
-      "image_local": "images\\genshin\\lohen.webp"
-    },
-    {
-      "id": "10000131",
-      "name": "Nicole",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nicole.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000131",
-      "image_local": "images\\genshin\\nicole.webp"
-    },
-    {
-      "id": "10000132",
-      "name": "Prune",
-      "rarity": 4,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Prune.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000132",
-      "image_local": "images\\genshin\\prune.webp"
-    },
-    {
-      "id": "10000133",
-      "name": "Sandrone",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_MarionetteNew.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000133",
-      "image_local": "images\\genshin\\sandrone.webp"
-    },
-    {
-      "id": "10000130",
-      "name": "Linnea",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linnea.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000130",
-      "image_local": "images\\genshin\\linnea.webp"
-    },
-    {
-      "id": "10000128",
-      "name": "Varka",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varka.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000128",
-      "image_local": "images\\genshin\\varka.webp"
-    },
-    {
-      "id": "10000126",
-      "name": "Zibai",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zibai.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000126",
-      "image_local": "images\\genshin\\zibai.webp"
-    },
-    {
-      "id": "10000127",
-      "name": "Illuga",
-      "rarity": 4,
-      "element": "Geo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Illuga.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000127",
-      "image_local": "images\\genshin\\illuga.webp"
-    },
-    {
-      "id": "10000125",
-      "name": "Columbina",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Columbina.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000125",
-      "image_local": "images\\genshin\\columbina.webp"
-    },
-    {
-      "id": "10000123",
-      "name": "Durin",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Durin.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000123",
-      "image_local": "images\\genshin\\durin.webp"
-    },
-    {
-      "id": "10000124",
-      "name": "Jahoda",
-      "rarity": 4,
-      "element": "Anemo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Jahoda.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000124",
-      "image_local": "images\\genshin\\jahoda.webp"
-    },
-    {
-      "id": "10000122",
-      "name": "Nefer",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nefer.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000122",
-      "image_local": "images\\genshin\\nefer.webp"
-    },
-    {
-      "id": "10000120",
-      "name": "Flins",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Flins.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000120",
-      "image_local": "images\\genshin\\flins.webp"
-    },
-    {
-      "id": "10000119",
-      "name": "Lauma",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lauma.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000119",
-      "image_local": "images\\genshin\\lauma.webp"
-    },
-    {
-      "id": "10000121",
-      "name": "Aino",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aino.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000121",
-      "image_local": "images\\genshin\\aino.webp"
-    },
-    {
-      "id": "10000116",
-      "name": "Ineffa",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ineffa.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000116",
-      "image_local": "images\\genshin\\ineffa.webp"
-    },
-    {
-      "id": "10000114",
-      "name": "Skirk",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_SkirkNew.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000114",
-      "image_local": "images\\genshin\\skirk.webp"
-    },
-    {
-      "id": "10000115",
-      "name": "Dahlia",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dahlia.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000115",
-      "image_local": "images\\genshin\\dahlia.webp"
-    },
-    {
-      "id": "10000112",
-      "name": "Escoffier",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Escoffier.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000112",
-      "image_local": "images\\genshin\\escoffier.webp"
-    },
-    {
-      "id": "10000113",
-      "name": "Ifa",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ifa.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000113",
-      "image_local": "images\\genshin\\ifa.webp"
-    },
-    {
-      "id": "10000110",
-      "name": "Iansan",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Iansan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000110",
-      "image_local": "images\\genshin\\iansan.webp"
-    },
-    {
-      "id": "10000111",
-      "name": "Varesa",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varesa.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000111",
-      "image_local": "images\\genshin\\varesa.webp"
-    },
-    {
-      "id": "10000108",
-      "name": "Lan Yan",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lanyan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000108",
-      "image_local": "images\\genshin\\lan_yan.webp"
-    },
-    {
-      "id": "10000005-pyro",
-      "name": "Traveler Pyro",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-pyro",
-      "image_local": "images\\genshin\\traveler_pyro.webp"
-    },
-    {
-      "id": "10000106",
-      "name": "Mavuika",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mavuika.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000106",
-      "image_local": "images\\genshin\\mavuika.webp"
-    },
-    {
-      "id": "10000107",
-      "name": "Citlali",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Citlali.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000107",
-      "image_local": "images\\genshin\\citlali.webp"
-    },
-    {
-      "id": "10000104",
-      "name": "Chasca",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chasca.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000104",
-      "image_local": "images\\genshin\\chasca.webp"
-    },
-    {
-      "id": "10000105",
-      "name": "Ororon",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Olorun.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000105",
-      "image_local": "images\\genshin\\ororon.webp"
-    },
-    {
-      "id": "10000103",
-      "name": "Xilonen",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xilonen.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000103",
-      "image_local": "images\\genshin\\xilonen.webp"
-    },
-    {
-      "id": "10000101",
-      "name": "Kinich",
-      "rarity": 4,
-      "element": "Dendro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kinich.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000101",
-      "image_local": "images\\genshin\\kinich.webp"
-    },
-    {
-      "id": "10000100",
-      "name": "Kachina",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kachina.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000100",
-      "image_local": "images\\genshin\\kachina.webp"
-    },
-    {
-      "id": "10000102",
-      "name": "Mualani",
-      "rarity": 4,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mualani.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000102",
-      "image_local": "images\\genshin\\mualani.webp"
-    },
-    {
-      "id": "10000099",
-      "name": "Emilie",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Emilie.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000099",
-      "image_local": "images\\genshin\\emilie.webp"
-    },
-    {
-      "id": "10000095",
-      "name": "Sigewinne",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sigewinne.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000095",
-      "image_local": "images\\genshin\\sigewinne.webp"
-    },
-    {
-      "id": "10000097",
-      "name": "Sethos",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sethos.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000097",
-      "image_local": "images\\genshin\\sethos.webp"
-    },
-    {
-      "id": "10000098",
-      "name": "Clorinde",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Clorinde.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000098",
-      "image_local": "images\\genshin\\clorinde.webp"
-    },
-    {
-      "id": "10000096",
-      "name": "Arlecchino",
-      "rarity": 4,
-      "element": "Pyro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Arlecchino.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000096",
-      "image_local": "images\\genshin\\arlecchino.webp"
-    },
-    {
-      "id": "10000094",
-      "name": "Chiori",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chiori.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000094",
-      "image_local": "images\\genshin\\chiori.webp"
-    },
-    {
-      "id": "10000092",
-      "name": "Gaming",
-      "rarity": 4,
-      "element": "Pyro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gaming.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000092",
-      "image_local": "images\\genshin\\gaming.webp"
-    },
-    {
-      "id": "10000093",
-      "name": "Xianyun",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liuyun.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000093",
-      "image_local": "images\\genshin\\xianyun.webp"
-    },
-    {
-      "id": "10000090",
-      "name": "Chevreuse",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chevreuse.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000090",
-      "image_local": "images\\genshin\\chevreuse.webp"
-    },
-    {
-      "id": "10000091",
-      "name": "Navia",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Navia.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000091",
-      "image_local": "images\\genshin\\navia.webp"
-    },
-    {
-      "id": "10000088",
-      "name": "Charlotte",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Charlotte.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000088",
-      "image_local": "images\\genshin\\charlotte.webp"
-    },
-    {
-      "id": "10000089",
-      "name": "Furina",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Furina.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000089",
-      "image_local": "images\\genshin\\furina.webp"
-    },
-    {
-      "id": "10000087",
-      "name": "Neuvillette",
-      "rarity": 4,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Neuvillette.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000087",
-      "image_local": "images\\genshin\\neuvillette.webp"
-    },
-    {
-      "id": "10000085",
-      "name": "Freminet",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Freminet.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000085",
-      "image_local": "images\\genshin\\freminet.webp"
-    },
-    {
-      "id": "10000083",
-      "name": "Lynette",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linette.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000083",
-      "image_local": "images\\genshin\\lynette.webp"
-    },
-    {
-      "id": "10000084",
-      "name": "Lyney",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liney.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000084",
-      "image_local": "images\\genshin\\lyney.webp"
-    },
-    {
-      "id": "10000005-hydro",
-      "name": "Traveler Hydro",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-hydro",
-      "image_local": "images\\genshin\\traveler_hydro.webp"
-    },
-    {
-      "id": "10000061",
-      "name": "Kirara",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Momoka.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000061",
-      "image_local": "images\\genshin\\kirara.webp"
-    },
-    {
-      "id": "10000081",
-      "name": "Kaveh",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaveh.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000081",
-      "image_local": "images\\genshin\\kaveh.webp"
-    },
-    {
-      "id": "10000082",
-      "name": "Baizhu",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Baizhuer.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000082",
-      "image_local": "images\\genshin\\baizhu.webp"
-    },
-    {
-      "id": "10000080",
-      "name": "Mika",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mika.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000080",
-      "image_local": "images\\genshin\\mika.webp"
-    },
-    {
-      "id": "10000079",
-      "name": "Dehya",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dehya.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000079",
-      "image_local": "images\\genshin\\dehya.webp"
-    },
-    {
-      "id": "10000077",
-      "name": "Yaoyao",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yaoyao.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000077",
-      "image_local": "images\\genshin\\yaoyao.webp"
-    },
-    {
-      "id": "10000078",
-      "name": "Alhaitham",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Alhatham.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000078",
-      "image_local": "images\\genshin\\alhaitham.webp"
-    },
-    {
-      "id": "10000075",
-      "name": "Wanderer",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wanderer.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000075",
-      "image_local": "images\\genshin\\wanderer.webp"
-    },
-    {
-      "id": "10000076",
-      "name": "Faruzan",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Faruzan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000076",
-      "image_local": "images\\genshin\\faruzan.webp"
-    },
-    {
-      "id": "10000074",
-      "name": "Layla",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Layla.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000074",
-      "image_local": "images\\genshin\\layla.webp"
-    },
-    {
-      "id": "10000073",
-      "name": "Nahida",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nahida.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000073",
-      "image_local": "images\\genshin\\nahida.webp"
-    },
-    {
-      "id": "10000070",
-      "name": "Nilou",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nilou.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000070",
-      "image_local": "images\\genshin\\nilou.webp"
-    },
-    {
-      "id": "10000072",
-      "name": "Candace",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Candace.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000072",
-      "image_local": "images\\genshin\\candace.webp"
-    },
-    {
-      "id": "10000068",
-      "name": "Dori",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dori.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000068",
-      "image_local": "images\\genshin\\dori.webp"
-    },
-    {
-      "id": "10000067",
-      "name": "Collei",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Collei.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000067",
-      "image_local": "images\\genshin\\collei.webp"
-    },
-    {
-      "id": "10000069",
-      "name": "Tighnari",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tighnari.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000069",
-      "image_local": "images\\genshin\\tighnari.webp"
-    },
-    {
-      "id": "10000059",
-      "name": "Shikanoin Heizou",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Heizo.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000059",
-      "image_local": "images\\genshin\\shikanoin_heizou.webp"
-    },
-    {
-      "id": "10000005-dendro",
-      "name": "Traveler Dendro",
-      "rarity": 5,
-      "element": "Dendro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-dendro",
-      "image_local": "images\\genshin\\traveler_dendro.webp"
-    },
-    {
-      "id": "10000065",
-      "name": "Kuki Shinobu",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shinobu.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000065",
-      "image_local": "images\\genshin\\kuki_shinobu.webp"
-    },
-    {
-      "id": "10000060",
-      "name": "Yelan",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yelan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000060",
-      "image_local": "images\\genshin\\yelan.webp"
-    },
-    {
-      "id": "10000066",
-      "name": "Kamisato Ayato",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayato.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000066",
-      "image_local": "images\\genshin\\kamisato_ayato.webp"
-    },
-    {
-      "id": "10000063",
-      "name": "Shenhe",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shenhe.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000063",
-      "image_local": "images\\genshin\\shenhe.webp"
-    },
-    {
-      "id": "10000064",
-      "name": "Yun Jin",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yunjin.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000064",
-      "image_local": "images\\genshin\\yun_jin.webp"
-    },
-    {
-      "id": "10000055",
-      "name": "Gorou",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gorou.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000055",
-      "image_local": "images\\genshin\\gorou.webp"
-    },
-    {
-      "id": "10000057",
-      "name": "Arataki Itto",
-      "rarity": 4,
-      "element": "Geo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Itto.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000057",
-      "image_local": "images\\genshin\\arataki_itto.webp"
-    },
-    {
-      "id": "10000050",
-      "name": "Thoma",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tohma.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000050",
-      "image_local": "images\\genshin\\thoma.webp"
-    },
-    {
-      "id": "10000054",
-      "name": "Sangonomiya Kokomi",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kokomi.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000054",
-      "image_local": "images\\genshin\\sangonomiya_kokomi.webp"
-    },
-    {
-      "id": "10000052",
-      "name": "Raiden Shogun",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shougun.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000052",
-      "image_local": "images\\genshin\\raiden_shogun.webp"
-    },
-    {
-      "id": "10000056",
-      "name": "Kujou Sara",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sara.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000056",
-      "image_local": "images\\genshin\\kujou_sara.webp"
-    },
-    {
-      "id": "10000062",
-      "name": "Aloy",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aloy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000062",
-      "image_local": "images\\genshin\\aloy.webp"
-    },
-    {
-      "id": "10000049",
-      "name": "Yoimiya",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yoimiya.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000049",
-      "image_local": "images\\genshin\\yoimiya.webp"
-    },
-    {
-      "id": "10000053",
-      "name": "Sayu",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sayu.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000053",
-      "image_local": "images\\genshin\\sayu.webp"
-    },
-    {
-      "id": "10000002",
-      "name": "Kamisato Ayaka",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayaka.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000002",
-      "image_local": "images\\genshin\\kamisato_ayaka.webp"
-    },
-    {
-      "id": "10000005-electro",
-      "name": "Traveler Electro",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-electro",
-      "image_local": "images\\genshin\\traveler_electro.webp"
-    },
-    {
-      "id": "10000047",
-      "name": "Kaedehara Kazuha",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kazuha.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000047",
-      "image_local": "images\\genshin\\kaedehara_kazuha.webp"
-    },
-    {
-      "id": "10000051",
-      "name": "Eula",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Eula.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000051",
-      "image_local": "images\\genshin\\eula.webp"
-    },
-    {
-      "id": "10000048",
-      "name": "Yanfei",
-      "rarity": 4,
-      "element": "Pyro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Feiyan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000048",
-      "image_local": "images\\genshin\\yanfei.webp"
-    },
-    {
-      "id": "10000045",
-      "name": "Rosaria",
-      "rarity": 4,
-      "element": "Cryo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Rosaria.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000045",
-      "image_local": "images\\genshin\\rosaria.webp"
-    },
-    {
-      "id": "10000046",
-      "name": "Hu Tao",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Hutao.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000046",
-      "image_local": "images\\genshin\\hu_tao.webp"
-    },
-    {
-      "id": "10000026",
-      "name": "Xiao",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiao.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000026",
-      "image_local": "images\\genshin\\xiao.webp"
-    },
-    {
-      "id": "10000037",
-      "name": "Ganyu",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ganyu.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000037",
-      "image_local": "images\\genshin\\ganyu.webp"
-    },
-    {
-      "id": "10000038",
-      "name": "Albedo",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Albedo.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000038",
-      "image_local": "images\\genshin\\albedo.webp"
-    },
-    {
-      "id": "10000030",
-      "name": "Zhongli",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zhongli.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000030",
-      "image_local": "images\\genshin\\zhongli.webp"
-    },
-    {
-      "id": "10000044",
-      "name": "Xinyan",
-      "rarity": 4,
-      "element": "Pyro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xinyan.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000044",
-      "image_local": "images\\genshin\\xinyan.webp"
-    },
-    {
-      "id": "10000033",
-      "name": "Tartaglia",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tartaglia.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000033",
-      "image_local": "images\\genshin\\tartaglia.webp"
-    },
-    {
-      "id": "10000003",
-      "name": "Jean",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qin.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000003",
-      "image_local": "images\\genshin\\jean.webp"
-    },
-    {
-      "id": "10000006",
-      "name": "Lisa",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lisa.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000006",
-      "image_local": "images\\genshin\\lisa.webp"
-    },
-    {
-      "id": "10000014",
-      "name": "Barbara",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Barbara.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000014",
-      "image_local": "images\\genshin\\barbara.webp"
-    },
-    {
-      "id": "10000015",
-      "name": "Kaeya",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaeya.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000015",
-      "image_local": "images\\genshin\\kaeya.webp"
-    },
-    {
-      "id": "10000016",
-      "name": "Diluc",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diluc.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000016",
-      "image_local": "images\\genshin\\diluc.webp"
-    },
-    {
-      "id": "10000020",
-      "name": "Razor",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Razor.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000020",
-      "image_local": "images\\genshin\\razor.webp"
-    },
-    {
-      "id": "10000021",
-      "name": "Amber",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ambor.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000021",
-      "image_local": "images\\genshin\\amber.webp"
-    },
-    {
-      "id": "10000022",
-      "name": "Venti",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Venti.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000022",
-      "image_local": "images\\genshin\\venti.webp"
-    },
-    {
-      "id": "10000023",
-      "name": "Xiangling",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Pole",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiangling.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000023",
-      "image_local": "images\\genshin\\xiangling.webp"
-    },
-    {
-      "id": "10000025",
-      "name": "Xingqiu",
-      "rarity": 4,
-      "element": "Hydro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xingqiu.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000025",
-      "image_local": "images\\genshin\\xingqiu.webp"
-    },
-    {
-      "id": "10000027",
-      "name": "Ningguang",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ningguang.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000027",
-      "image_local": "images\\genshin\\ningguang.webp"
-    },
-    {
-      "id": "10000029",
-      "name": "Klee",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Klee.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000029",
-      "image_local": "images\\genshin\\klee.webp"
-    },
-    {
-      "id": "10000031",
-      "name": "Fischl",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Bow",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Fischl.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000031",
-      "image_local": "images\\genshin\\fischl.webp"
-    },
-    {
-      "id": "10000032",
-      "name": "Bennett",
-      "rarity": 5,
-      "element": "Pyro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Bennett.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000032",
-      "image_local": "images\\genshin\\bennett.webp"
-    },
-    {
-      "id": "10000034",
-      "name": "Noelle",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Noel.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000034",
-      "image_local": "images\\genshin\\noelle.webp"
-    },
-    {
-      "id": "10000036",
-      "name": "Chongyun",
-      "rarity": 5,
-      "element": "Cryo",
-      "weapon": "Claymore",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chongyun.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000036",
-      "image_local": "images\\genshin\\chongyun.webp"
-    },
-    {
-      "id": "10000041",
-      "name": "Mona",
-      "rarity": 5,
-      "element": "Hydro",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mona.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000041",
-      "image_local": "images\\genshin\\mona.webp"
-    },
-    {
-      "id": "10000042",
-      "name": "Keqing",
-      "rarity": 5,
-      "element": "Electro",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Keqing.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000042",
-      "image_local": "images\\genshin\\keqing.webp"
-    },
-    {
-      "id": "10000043",
-      "name": "Sucrose",
-      "rarity": 4,
-      "element": "Anemo",
-      "weapon": "Catalyst",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sucrose.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000043",
-      "image_local": "images\\genshin\\sucrose.webp"
-    },
-    {
-      "id": "10000005-anemo",
-      "name": "Traveler Anemo",
-      "rarity": 5,
-      "element": "Anemo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-anemo",
-      "image_local": "images\\genshin\\traveler_anemo.webp"
-    },
-    {
-      "id": "10000005-geo",
-      "name": "Traveler Geo",
-      "rarity": 5,
-      "element": "Geo",
-      "weapon": "Sword",
-      "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
-      "page_url": "https://genshin.akademiya.app/en/characters/10000005-geo",
-      "image_local": "images\\genshin\\traveler_geo.webp"
-    }
-  ],
+  {
+    "id": "10000024",
+    "name": "Beidou",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Beidou.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000024",
+    "image_local": "images\\genshin\\beidou.webp"
+  },
+  {
+    "id": "10000035",
+    "name": "Qiqi",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qiqi.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000035",
+    "image_local": "images\\genshin\\qiqi.webp"
+  },
+  {
+    "id": "10000039",
+    "name": "Diona",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diona.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000039",
+    "image_local": "images\\genshin\\diona.webp"
+  },
+  {
+    "id": "10000058",
+    "name": "Yae Miko",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yae.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000058",
+    "image_local": "images\\genshin\\yae_miko.webp"
+  },
+  {
+    "id": "10000071",
+    "name": "Cyno",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Cyno.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000071",
+    "image_local": "images\\genshin\\cyno.webp"
+  },
+  {
+    "id": "10000086",
+    "name": "Wriothesley",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wriothesley.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000086",
+    "image_local": "images\\genshin\\wriothesley.webp"
+  },
+  {
+    "id": "10000109",
+    "name": "Yumemizuki Mizuki",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mizuki.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000109",
+    "image_local": "images\\genshin\\yumemizuki_mizuki.webp"
+  },
+  {
+    "id": "10000129",
+    "name": "Lohen",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lohen.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000129",
+    "image_local": "images\\genshin\\lohen.webp"
+  },
+  {
+    "id": "10000131",
+    "name": "Nicole",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nicole.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000131",
+    "image_local": "images\\genshin\\nicole.webp"
+  },
+  {
+    "id": "10000132",
+    "name": "Prune",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Prune.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000132",
+    "image_local": "images\\genshin\\prune.webp"
+  },
+  {
+    "id": "10000133",
+    "name": "Sandrone",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_MarionetteNew.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000133",
+    "image_local": "images\\genshin\\sandrone.webp"
+  },
+  {
+    "id": "10000130",
+    "name": "Linnea",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linnea.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000130",
+    "image_local": "images\\genshin\\linnea.webp"
+  },
+  {
+    "id": "10000128",
+    "name": "Varka",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varka.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000128",
+    "image_local": "images\\genshin\\varka.webp"
+  },
+  {
+    "id": "10000126",
+    "name": "Zibai",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zibai.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000126",
+    "image_local": "images\\genshin\\zibai.webp"
+  },
+  {
+    "id": "10000127",
+    "name": "Illuga",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Illuga.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000127",
+    "image_local": "images\\genshin\\illuga.webp"
+  },
+  {
+    "id": "10000125",
+    "name": "Columbina",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Columbina.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000125",
+    "image_local": "images\\genshin\\columbina.webp"
+  },
+  {
+    "id": "10000123",
+    "name": "Durin",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Durin.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000123",
+    "image_local": "images\\genshin\\durin.webp"
+  },
+  {
+    "id": "10000124",
+    "name": "Jahoda",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Jahoda.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000124",
+    "image_local": "images\\genshin\\jahoda.webp"
+  },
+  {
+    "id": "10000122",
+    "name": "Nefer",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nefer.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000122",
+    "image_local": "images\\genshin\\nefer.webp"
+  },
+  {
+    "id": "10000120",
+    "name": "Flins",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Flins.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000120",
+    "image_local": "images\\genshin\\flins.webp"
+  },
+  {
+    "id": "10000119",
+    "name": "Lauma",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lauma.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000119",
+    "image_local": "images\\genshin\\lauma.webp"
+  },
+  {
+    "id": "10000121",
+    "name": "Aino",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aino.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000121",
+    "image_local": "images\\genshin\\aino.webp"
+  },
+  {
+    "id": "10000116",
+    "name": "Ineffa",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ineffa.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000116",
+    "image_local": "images\\genshin\\ineffa.webp"
+  },
+  {
+    "id": "10000114",
+    "name": "Skirk",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_SkirkNew.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000114",
+    "image_local": "images\\genshin\\skirk.webp"
+  },
+  {
+    "id": "10000115",
+    "name": "Dahlia",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dahlia.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000115",
+    "image_local": "images\\genshin\\dahlia.webp"
+  },
+  {
+    "id": "10000112",
+    "name": "Escoffier",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Escoffier.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000112",
+    "image_local": "images\\genshin\\escoffier.webp"
+  },
+  {
+    "id": "10000113",
+    "name": "Ifa",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ifa.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000113",
+    "image_local": "images\\genshin\\ifa.webp"
+  },
+  {
+    "id": "10000110",
+    "name": "Iansan",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Iansan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000110",
+    "image_local": "images\\genshin\\iansan.webp"
+  },
+  {
+    "id": "10000111",
+    "name": "Varesa",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Varesa.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000111",
+    "image_local": "images\\genshin\\varesa.webp"
+  },
+  {
+    "id": "10000108",
+    "name": "Lan Yan",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lanyan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000108",
+    "image_local": "images\\genshin\\lan_yan.webp"
+  },
+  {
+    "id": "10000005-pyro",
+    "name": "Traveler Pyro",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-pyro",
+    "image_local": "images\\genshin\\traveler_pyro.webp"
+  },
+  {
+    "id": "10000106",
+    "name": "Mavuika",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mavuika.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000106",
+    "image_local": "images\\genshin\\mavuika.webp"
+  },
+  {
+    "id": "10000107",
+    "name": "Citlali",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Citlali.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000107",
+    "image_local": "images\\genshin\\citlali.webp"
+  },
+  {
+    "id": "10000104",
+    "name": "Chasca",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chasca.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000104",
+    "image_local": "images\\genshin\\chasca.webp"
+  },
+  {
+    "id": "10000105",
+    "name": "Ororon",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Olorun.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000105",
+    "image_local": "images\\genshin\\ororon.webp"
+  },
+  {
+    "id": "10000103",
+    "name": "Xilonen",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xilonen.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000103",
+    "image_local": "images\\genshin\\xilonen.webp"
+  },
+  {
+    "id": "10000101",
+    "name": "Kinich",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kinich.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000101",
+    "image_local": "images\\genshin\\kinich.webp"
+  },
+  {
+    "id": "10000100",
+    "name": "Kachina",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kachina.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000100",
+    "image_local": "images\\genshin\\kachina.webp"
+  },
+  {
+    "id": "10000102",
+    "name": "Mualani",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mualani.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000102",
+    "image_local": "images\\genshin\\mualani.webp"
+  },
+  {
+    "id": "10000099",
+    "name": "Emilie",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Emilie.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000099",
+    "image_local": "images\\genshin\\emilie.webp"
+  },
+  {
+    "id": "10000095",
+    "name": "Sigewinne",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sigewinne.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000095",
+    "image_local": "images\\genshin\\sigewinne.webp"
+  },
+  {
+    "id": "10000097",
+    "name": "Sethos",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sethos.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000097",
+    "image_local": "images\\genshin\\sethos.webp"
+  },
+  {
+    "id": "10000098",
+    "name": "Clorinde",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Clorinde.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000098",
+    "image_local": "images\\genshin\\clorinde.webp"
+  },
+  {
+    "id": "10000096",
+    "name": "Arlecchino",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Arlecchino.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000096",
+    "image_local": "images\\genshin\\arlecchino.webp"
+  },
+  {
+    "id": "10000094",
+    "name": "Chiori",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chiori.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000094",
+    "image_local": "images\\genshin\\chiori.webp"
+  },
+  {
+    "id": "10000092",
+    "name": "Gaming",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gaming.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000092",
+    "image_local": "images\\genshin\\gaming.webp"
+  },
+  {
+    "id": "10000093",
+    "name": "Xianyun",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liuyun.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000093",
+    "image_local": "images\\genshin\\xianyun.webp"
+  },
+  {
+    "id": "10000090",
+    "name": "Chevreuse",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chevreuse.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000090",
+    "image_local": "images\\genshin\\chevreuse.webp"
+  },
+  {
+    "id": "10000091",
+    "name": "Navia",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Navia.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000091",
+    "image_local": "images\\genshin\\navia.webp"
+  },
+  {
+    "id": "10000088",
+    "name": "Charlotte",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Charlotte.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000088",
+    "image_local": "images\\genshin\\charlotte.webp"
+  },
+  {
+    "id": "10000089",
+    "name": "Furina",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Furina.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000089",
+    "image_local": "images\\genshin\\furina.webp"
+  },
+  {
+    "id": "10000087",
+    "name": "Neuvillette",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Neuvillette.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000087",
+    "image_local": "images\\genshin\\neuvillette.webp"
+  },
+  {
+    "id": "10000085",
+    "name": "Freminet",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Freminet.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000085",
+    "image_local": "images\\genshin\\freminet.webp"
+  },
+  {
+    "id": "10000083",
+    "name": "Lynette",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Linette.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000083",
+    "image_local": "images\\genshin\\lynette.webp"
+  },
+  {
+    "id": "10000084",
+    "name": "Lyney",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Liney.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000084",
+    "image_local": "images\\genshin\\lyney.webp"
+  },
+  {
+    "id": "10000005-hydro",
+    "name": "Traveler Hydro",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-hydro",
+    "image_local": "images\\genshin\\traveler_hydro.webp"
+  },
+  {
+    "id": "10000061",
+    "name": "Kirara",
+    "rarity": 4,
+    "element": "Dendro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Momoka.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000061",
+    "image_local": "images\\genshin\\kirara.webp"
+  },
+  {
+    "id": "10000081",
+    "name": "Kaveh",
+    "rarity": 4,
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaveh.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000081",
+    "image_local": "images\\genshin\\kaveh.webp"
+  },
+  {
+    "id": "10000082",
+    "name": "Baizhu",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Baizhuer.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000082",
+    "image_local": "images\\genshin\\baizhu.webp"
+  },
+  {
+    "id": "10000080",
+    "name": "Mika",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mika.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000080",
+    "image_local": "images\\genshin\\mika.webp"
+  },
+  {
+    "id": "10000079",
+    "name": "Dehya",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dehya.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000079",
+    "image_local": "images\\genshin\\dehya.webp"
+  },
+  {
+    "id": "10000077",
+    "name": "Yaoyao",
+    "rarity": 4,
+    "element": "Dendro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yaoyao.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000077",
+    "image_local": "images\\genshin\\yaoyao.webp"
+  },
+  {
+    "id": "10000078",
+    "name": "Alhaitham",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Alhatham.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000078",
+    "image_local": "images\\genshin\\alhaitham.webp"
+  },
+  {
+    "id": "10000075",
+    "name": "Wanderer",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Wanderer.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000075",
+    "image_local": "images\\genshin\\wanderer.webp"
+  },
+  {
+    "id": "10000076",
+    "name": "Faruzan",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Faruzan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000076",
+    "image_local": "images\\genshin\\faruzan.webp"
+  },
+  {
+    "id": "10000074",
+    "name": "Layla",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Layla.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000074",
+    "image_local": "images\\genshin\\layla.webp"
+  },
+  {
+    "id": "10000073",
+    "name": "Nahida",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nahida.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000073",
+    "image_local": "images\\genshin\\nahida.webp"
+  },
+  {
+    "id": "10000070",
+    "name": "Nilou",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Nilou.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000070",
+    "image_local": "images\\genshin\\nilou.webp"
+  },
+  {
+    "id": "10000072",
+    "name": "Candace",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Candace.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000072",
+    "image_local": "images\\genshin\\candace.webp"
+  },
+  {
+    "id": "10000068",
+    "name": "Dori",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Dori.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000068",
+    "image_local": "images\\genshin\\dori.webp"
+  },
+  {
+    "id": "10000067",
+    "name": "Collei",
+    "rarity": 4,
+    "element": "Dendro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Collei.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000067",
+    "image_local": "images\\genshin\\collei.webp"
+  },
+  {
+    "id": "10000069",
+    "name": "Tighnari",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tighnari.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000069",
+    "image_local": "images\\genshin\\tighnari.webp"
+  },
+  {
+    "id": "10000059",
+    "name": "Shikanoin Heizou",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Heizo.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000059",
+    "image_local": "images\\genshin\\shikanoin_heizou.webp"
+  },
+  {
+    "id": "10000005-dendro",
+    "name": "Traveler Dendro",
+    "rarity": 5,
+    "element": "Dendro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-dendro",
+    "image_local": "images\\genshin\\traveler_dendro.webp"
+  },
+  {
+    "id": "10000065",
+    "name": "Kuki Shinobu",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shinobu.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000065",
+    "image_local": "images\\genshin\\kuki_shinobu.webp"
+  },
+  {
+    "id": "10000060",
+    "name": "Yelan",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yelan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000060",
+    "image_local": "images\\genshin\\yelan.webp"
+  },
+  {
+    "id": "10000066",
+    "name": "Kamisato Ayato",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayato.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000066",
+    "image_local": "images\\genshin\\kamisato_ayato.webp"
+  },
+  {
+    "id": "10000063",
+    "name": "Shenhe",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shenhe.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000063",
+    "image_local": "images\\genshin\\shenhe.webp"
+  },
+  {
+    "id": "10000064",
+    "name": "Yun Jin",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yunjin.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000064",
+    "image_local": "images\\genshin\\yun_jin.webp"
+  },
+  {
+    "id": "10000055",
+    "name": "Gorou",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Gorou.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000055",
+    "image_local": "images\\genshin\\gorou.webp"
+  },
+  {
+    "id": "10000057",
+    "name": "Arataki Itto",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Itto.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000057",
+    "image_local": "images\\genshin\\arataki_itto.webp"
+  },
+  {
+    "id": "10000050",
+    "name": "Thoma",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tohma.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000050",
+    "image_local": "images\\genshin\\thoma.webp"
+  },
+  {
+    "id": "10000054",
+    "name": "Sangonomiya Kokomi",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kokomi.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000054",
+    "image_local": "images\\genshin\\sangonomiya_kokomi.webp"
+  },
+  {
+    "id": "10000052",
+    "name": "Raiden Shogun",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Shougun.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000052",
+    "image_local": "images\\genshin\\raiden_shogun.webp"
+  },
+  {
+    "id": "10000056",
+    "name": "Kujou Sara",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sara.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000056",
+    "image_local": "images\\genshin\\kujou_sara.webp"
+  },
+  {
+    "id": "10000062",
+    "name": "Aloy",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Aloy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000062",
+    "image_local": "images\\genshin\\aloy.webp"
+  },
+  {
+    "id": "10000049",
+    "name": "Yoimiya",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Yoimiya.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000049",
+    "image_local": "images\\genshin\\yoimiya.webp"
+  },
+  {
+    "id": "10000053",
+    "name": "Sayu",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sayu.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000053",
+    "image_local": "images\\genshin\\sayu.webp"
+  },
+  {
+    "id": "10000002",
+    "name": "Kamisato Ayaka",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ayaka.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000002",
+    "image_local": "images\\genshin\\kamisato_ayaka.webp"
+  },
+  {
+    "id": "10000005-electro",
+    "name": "Traveler Electro",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-electro",
+    "image_local": "images\\genshin\\traveler_electro.webp"
+  },
+  {
+    "id": "10000047",
+    "name": "Kaedehara Kazuha",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kazuha.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000047",
+    "image_local": "images\\genshin\\kaedehara_kazuha.webp"
+  },
+  {
+    "id": "10000051",
+    "name": "Eula",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Eula.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000051",
+    "image_local": "images\\genshin\\eula.webp"
+  },
+  {
+    "id": "10000048",
+    "name": "Yanfei",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Feiyan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000048",
+    "image_local": "images\\genshin\\yanfei.webp"
+  },
+  {
+    "id": "10000045",
+    "name": "Rosaria",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Rosaria.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000045",
+    "image_local": "images\\genshin\\rosaria.webp"
+  },
+  {
+    "id": "10000046",
+    "name": "Hu Tao",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Hutao.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000046",
+    "image_local": "images\\genshin\\hu_tao.webp"
+  },
+  {
+    "id": "10000026",
+    "name": "Xiao",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiao.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000026",
+    "image_local": "images\\genshin\\xiao.webp"
+  },
+  {
+    "id": "10000037",
+    "name": "Ganyu",
+    "rarity": 5,
+    "element": "Cryo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ganyu.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000037",
+    "image_local": "images\\genshin\\ganyu.webp"
+  },
+  {
+    "id": "10000038",
+    "name": "Albedo",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Albedo.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000038",
+    "image_local": "images\\genshin\\albedo.webp"
+  },
+  {
+    "id": "10000030",
+    "name": "Zhongli",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Zhongli.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000030",
+    "image_local": "images\\genshin\\zhongli.webp"
+  },
+  {
+    "id": "10000044",
+    "name": "Xinyan",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xinyan.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000044",
+    "image_local": "images\\genshin\\xinyan.webp"
+  },
+  {
+    "id": "10000033",
+    "name": "Tartaglia",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Tartaglia.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000033",
+    "image_local": "images\\genshin\\tartaglia.webp"
+  },
+  {
+    "id": "10000003",
+    "name": "Jean",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Qin.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000003",
+    "image_local": "images\\genshin\\jean.webp"
+  },
+  {
+    "id": "10000006",
+    "name": "Lisa",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Lisa.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000006",
+    "image_local": "images\\genshin\\lisa.webp"
+  },
+  {
+    "id": "10000014",
+    "name": "Barbara",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Barbara.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000014",
+    "image_local": "images\\genshin\\barbara.webp"
+  },
+  {
+    "id": "10000015",
+    "name": "Kaeya",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Kaeya.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000015",
+    "image_local": "images\\genshin\\kaeya.webp"
+  },
+  {
+    "id": "10000016",
+    "name": "Diluc",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Diluc.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000016",
+    "image_local": "images\\genshin\\diluc.webp"
+  },
+  {
+    "id": "10000020",
+    "name": "Razor",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Razor.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000020",
+    "image_local": "images\\genshin\\razor.webp"
+  },
+  {
+    "id": "10000021",
+    "name": "Amber",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ambor.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000021",
+    "image_local": "images\\genshin\\amber.webp"
+  },
+  {
+    "id": "10000022",
+    "name": "Venti",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Venti.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000022",
+    "image_local": "images\\genshin\\venti.webp"
+  },
+  {
+    "id": "10000023",
+    "name": "Xiangling",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Pole",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xiangling.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000023",
+    "image_local": "images\\genshin\\xiangling.webp"
+  },
+  {
+    "id": "10000025",
+    "name": "Xingqiu",
+    "rarity": 4,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Xingqiu.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000025",
+    "image_local": "images\\genshin\\xingqiu.webp"
+  },
+  {
+    "id": "10000027",
+    "name": "Ningguang",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Ningguang.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000027",
+    "image_local": "images\\genshin\\ningguang.webp"
+  },
+  {
+    "id": "10000029",
+    "name": "Klee",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Klee.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000029",
+    "image_local": "images\\genshin\\klee.webp"
+  },
+  {
+    "id": "10000031",
+    "name": "Fischl",
+    "rarity": 4,
+    "element": "Electro",
+    "weapon": "Bow",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Fischl.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000031",
+    "image_local": "images\\genshin\\fischl.webp"
+  },
+  {
+    "id": "10000032",
+    "name": "Bennett",
+    "rarity": 4,
+    "element": "Pyro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Bennett.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000032",
+    "image_local": "images\\genshin\\bennett.webp"
+  },
+  {
+    "id": "10000034",
+    "name": "Noelle",
+    "rarity": 4,
+    "element": "Geo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Noel.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000034",
+    "image_local": "images\\genshin\\noelle.webp"
+  },
+  {
+    "id": "10000036",
+    "name": "Chongyun",
+    "rarity": 4,
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Chongyun.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000036",
+    "image_local": "images\\genshin\\chongyun.webp"
+  },
+  {
+    "id": "10000041",
+    "name": "Mona",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Mona.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000041",
+    "image_local": "images\\genshin\\mona.webp"
+  },
+  {
+    "id": "10000042",
+    "name": "Keqing",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Keqing.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000042",
+    "image_local": "images\\genshin\\keqing.webp"
+  },
+  {
+    "id": "10000043",
+    "name": "Sucrose",
+    "rarity": 4,
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_Sucrose.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000043",
+    "image_local": "images\\genshin\\sucrose.webp"
+  },
+  {
+    "id": "10000005-anemo",
+    "name": "Traveler Anemo",
+    "rarity": 5,
+    "element": "Anemo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-anemo",
+    "image_local": "images\\genshin\\traveler_anemo.webp"
+  },
+  {
+    "id": "10000005-geo",
+    "name": "Traveler Geo",
+    "rarity": 5,
+    "element": "Geo",
+    "weapon": "Sword",
+    "image_url": "https://static.nanoka.cc/assets/gi/UI_AvatarIcon_PlayerBoy.webp",
+    "page_url": "https://genshin.akademiya.app/en/characters/10000005-geo",
+    "image_local": "images\\genshin\\traveler_geo.webp"
+  }
+],
   "hsr": [
-    {
-      "id": "1507",
-      "name": "Mortenax Blade",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1507.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1507",
-      "image_local": "images\\hsr\\mortenax_blade.webp"
-    },
-    {
-      "id": "1505",
-      "name": "Evanescia",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Elation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1505.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1505",
-      "image_local": "images\\hsr\\evanescia.webp"
-    },
-    {
-      "id": "1506",
-      "name": "Silver Wolf LV.999",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Elation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1506.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1506",
-      "image_local": "images\\hsr\\silver_wolf_lv_999.webp"
-    },
-    {
-      "id": "8010",
-      "name": "Trailblazer",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Elation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8010.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/8010",
-      "image_local": "images\\hsr\\trailblazer.webp"
-    },
-    {
-      "id": "1504",
-      "name": "Ashveil",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1504.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1504",
-      "image_local": "images\\hsr\\ashveil.webp"
-    },
-    {
-      "id": "1501",
-      "name": "Sparxie",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Elation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1501.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1501",
-      "image_local": "images\\hsr\\sparxie.webp"
-    },
-    {
-      "id": "1502",
-      "name": "Yao Guang",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Elation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1502.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1502",
-      "image_local": "images\\hsr\\yao_guang.webp"
-    },
-    {
-      "id": "1321",
-      "name": "The Dahlia",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1321.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1321",
-      "image_local": "images\\hsr\\the_dahlia.webp"
-    },
-    {
-      "id": "1415",
-      "name": "Cyrene",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1415.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1415",
-      "image_local": "images\\hsr\\cyrene.webp"
-    },
-    {
-      "id": "1412",
-      "name": "Cerydra",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1412.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1412",
-      "image_local": "images\\hsr\\cerydra.webp"
-    },
-    {
-      "id": "1413",
-      "name": "Evernight",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1413.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1413",
-      "image_local": "images\\hsr\\evernight.webp"
-    },
-    {
-      "id": "1410",
-      "name": "Hysilens",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1410.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1410",
-      "image_local": "images\\hsr\\hysilens.webp"
-    },
-    {
-      "id": "1014",
-      "name": "Saber",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1014.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1014",
-      "image_local": "images\\hsr\\saber.webp"
-    },
-    {
-      "id": "1015",
-      "name": "Archer",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1015.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1015",
-      "image_local": "images\\hsr\\archer.webp"
-    },
-    {
-      "id": "1408",
-      "name": "Phainon",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1408.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1408",
-      "image_local": "images\\hsr\\phainon.webp"
-    },
-    {
-      "id": "1406",
-      "name": "Cipher",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1406.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1406",
-      "image_local": "images\\hsr\\cipher.webp"
-    },
-    {
-      "id": "1409",
-      "name": "Hyacine",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1409.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1409",
-      "image_local": "images\\hsr\\hyacine.webp"
-    },
-    {
-      "id": "1405",
-      "name": "Anaxa",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1405.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1405",
-      "image_local": "images\\hsr\\anaxa.webp"
-    },
-    {
-      "id": "1407",
-      "name": "Castorice",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1407.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1407",
-      "image_local": "images\\hsr\\castorice.webp"
-    },
-    {
-      "id": "1404",
-      "name": "Mydei",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1404.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1404",
-      "image_local": "images\\hsr\\mydei.webp"
-    },
-    {
-      "id": "1403",
-      "name": "Tribbie",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1403.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1403",
-      "image_local": "images\\hsr\\tribbie.webp"
-    },
-    {
-      "id": "1402",
-      "name": "Aglaea",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1402.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1402",
-      "image_local": "images\\hsr\\aglaea.webp"
-    },
-    {
-      "id": "1401",
-      "name": "The Herta",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1401.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1401",
-      "image_local": "images\\hsr\\the_herta.webp"
-    },
-    {
-      "id": "8008",
-      "name": "Trailblazer",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Remembrance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8008.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/8008",
-      "image_local": "images\\hsr\\trailblazer.webp"
-    },
-    {
-      "id": "1225",
-      "name": "Fugue",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1225.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1225",
-      "image_local": "images\\hsr\\fugue.webp"
-    },
-    {
-      "id": "1313",
-      "name": "Sunday",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1313.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1313",
-      "image_local": "images\\hsr\\sunday.webp"
-    },
-    {
-      "id": "1317",
-      "name": "Rappa",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1317.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1317",
-      "image_local": "images\\hsr\\rappa.webp"
-    },
-    {
-      "id": "1222",
-      "name": "Lingsha",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1222.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1222",
-      "image_local": "images\\hsr\\lingsha.webp"
-    },
-    {
-      "id": "1220",
-      "name": "Feixiao",
-      "rarity": 5,
-      "element": null,
-      "path": null,
-      "image_url": "https://static.nanoka.cc/assets/hsr/avatarshopicon/1220.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1220",
-      "image_local": "images\\hsr\\feixiao.webp"
-    },
-    {
-      "id": "1223",
-      "name": "Moze",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1223.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1223",
-      "image_local": "images\\hsr\\moze.webp"
-    },
-    {
-      "id": "1218",
-      "name": "Jiaoqiu",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1218.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1218",
-      "image_local": "images\\hsr\\jiaoqiu.webp"
-    },
-    {
-      "id": "1221",
-      "name": "Yunli",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1221.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1221",
-      "image_local": "images\\hsr\\yunli.webp"
-    },
-    {
-      "id": "1224",
-      "name": "March 7th",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1224.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1224",
-      "image_local": "images\\hsr\\march_7th.webp"
-    },
-    {
-      "id": "1314",
-      "name": "Jade",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1314.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1314",
-      "image_local": "images\\hsr\\jade.webp"
-    },
-    {
-      "id": "1310",
-      "name": "Firefly",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1310.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1310",
-      "image_local": "images\\hsr\\firefly.webp"
-    },
-    {
-      "id": "1315",
-      "name": "Boothill",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1315.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1315",
-      "image_local": "images\\hsr\\boothill.webp"
-    },
-    {
-      "id": "1309",
-      "name": "Robin",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1309.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1309",
-      "image_local": "images\\hsr\\robin.webp"
-    },
-    {
-      "id": "8006",
-      "name": "Trailblazer",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8006.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/8006",
-      "image_local": "images\\hsr\\trailblazer.webp"
-    },
-    {
-      "id": "1304",
-      "name": "Aventurine",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1304.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1304",
-      "image_local": "images\\hsr\\aventurine.webp"
-    },
-    {
-      "id": "1301",
-      "name": "Gallagher",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1301.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1301",
-      "image_local": "images\\hsr\\gallagher.webp"
-    },
-    {
-      "id": "1308",
-      "name": "Acheron",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1308.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1308",
-      "image_local": "images\\hsr\\acheron.webp"
-    },
-    {
-      "id": "1312",
-      "name": "Misha",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1312.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1312",
-      "image_local": "images\\hsr\\misha.webp"
-    },
-    {
-      "id": "1306",
-      "name": "Sparkle",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1306.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1306",
-      "image_local": "images\\hsr\\sparkle.webp"
-    },
-    {
-      "id": "1307",
-      "name": "Black Swan",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1307.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1307",
-      "image_local": "images\\hsr\\black_swan.webp"
-    },
-    {
-      "id": "1305",
-      "name": "Dr. Ratio",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1305.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1305",
-      "image_local": "images\\hsr\\dr_ratio.webp"
-    },
-    {
-      "id": "1214",
-      "name": "Xueyi",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1214.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1214",
-      "image_local": "images\\hsr\\xueyi.webp"
-    },
-    {
-      "id": "1303",
-      "name": "Ruan Mei",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1303.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1303",
-      "image_local": "images\\hsr\\ruan_mei.webp"
-    },
-    {
-      "id": "1215",
-      "name": "Hanya",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1215.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1215",
-      "image_local": "images\\hsr\\hanya.webp"
-    },
-    {
-      "id": "1302",
-      "name": "Argenti",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1302.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1302",
-      "image_local": "images\\hsr\\argenti.webp"
-    },
-    {
-      "id": "1217",
-      "name": "Huohuo",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1217.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1217",
-      "image_local": "images\\hsr\\huohuo.webp"
-    },
-    {
-      "id": "1112",
-      "name": "Topaz & Numby",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1112.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1112",
-      "image_local": "images\\hsr\\topaz_numby.webp"
-    },
-    {
-      "id": "1210",
-      "name": "Guinaifen",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1210.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1210",
-      "image_local": "images\\hsr\\guinaifen.webp"
-    },
-    {
-      "id": "1212",
-      "name": "Jingliu",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1212.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1212",
-      "image_local": "images\\hsr\\jingliu.webp"
-    },
-    {
-      "id": "1110",
-      "name": "Lynx",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1110.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1110",
-      "image_local": "images\\hsr\\lynx.webp"
-    },
-    {
-      "id": "1208",
-      "name": "Fu Xuan",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1208.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1208",
-      "image_local": "images\\hsr\\fu_xuan.webp"
-    },
-    {
-      "id": "1213",
-      "name": "Dan Heng • Imbibitor Lunae",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1213.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1213",
-      "image_local": "images\\hsr\\dan_heng_imbibitor_lunae.webp"
-    },
-    {
-      "id": "1005",
-      "name": "Kafka",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1005.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1005",
-      "image_local": "images\\hsr\\kafka.webp"
-    },
-    {
-      "id": "1111",
-      "name": "Luka",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1111.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1111",
-      "image_local": "images\\hsr\\luka.webp"
-    },
-    {
-      "id": "1205",
-      "name": "Blade",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1205.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1205",
-      "image_local": "images\\hsr\\blade.webp"
-    },
-    {
-      "id": "1203",
-      "name": "Luocha",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1203.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1203",
-      "image_local": "images\\hsr\\luocha.webp"
-    },
-    {
-      "id": "1207",
-      "name": "Yukong",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1207.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1207",
-      "image_local": "images\\hsr\\yukong.webp"
-    },
-    {
-      "id": "1006",
-      "name": "Silver Wolf",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1006.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1006",
-      "image_local": "images\\hsr\\silver_wolf.webp"
-    },
-    {
-      "id": "1204",
-      "name": "Jing Yuan",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1204.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1204",
-      "image_local": "images\\hsr\\jing_yuan.webp"
-    },
-    {
-      "id": "1001",
-      "name": "March 7th",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1001.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1001",
-      "image_local": "images\\hsr\\march_7th.webp"
-    },
-    {
-      "id": "1002",
-      "name": "Dan Heng",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1002.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1002",
-      "image_local": "images\\hsr\\dan_heng.webp"
-    },
-    {
-      "id": "1003",
-      "name": "Himeko",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1003.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1003",
-      "image_local": "images\\hsr\\himeko.webp"
-    },
-    {
-      "id": "1004",
-      "name": "Welt",
-      "rarity": 5,
-      "element": "Imaginary",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1004.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1004",
-      "image_local": "images\\hsr\\welt.webp"
-    },
-    {
-      "id": "1008",
-      "name": "Arlan",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1008.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1008",
-      "image_local": "images\\hsr\\arlan.webp"
-    },
-    {
-      "id": "1009",
-      "name": "Asta",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1009.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1009",
-      "image_local": "images\\hsr\\asta.webp"
-    },
-    {
-      "id": "1013",
-      "name": "Herta",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1013.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1013",
-      "image_local": "images\\hsr\\herta.webp"
-    },
-    {
-      "id": "1101",
-      "name": "Bronya",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1101.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1101",
-      "image_local": "images\\hsr\\bronya.webp"
-    },
-    {
-      "id": "1102",
-      "name": "Seele",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1102.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1102",
-      "image_local": "images\\hsr\\seele.webp"
-    },
-    {
-      "id": "1103",
-      "name": "Serval",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1103.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1103",
-      "image_local": "images\\hsr\\serval.webp"
-    },
-    {
-      "id": "1104",
-      "name": "Gepard",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1104.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1104",
-      "image_local": "images\\hsr\\gepard.webp"
-    },
-    {
-      "id": "1105",
-      "name": "Natasha",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1105.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1105",
-      "image_local": "images\\hsr\\natasha.webp"
-    },
-    {
-      "id": "1106",
-      "name": "Pela",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1106.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1106",
-      "image_local": "images\\hsr\\pela.webp"
-    },
-    {
-      "id": "1107",
-      "name": "Clara",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1107.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1107",
-      "image_local": "images\\hsr\\clara.webp"
-    },
-    {
-      "id": "1108",
-      "name": "Sampo",
-      "rarity": 5,
-      "element": "Wind",
-      "path": "Nihility",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1108.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1108",
-      "image_local": "images\\hsr\\sampo.webp"
-    },
-    {
-      "id": "1109",
-      "name": "Hook",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1109.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1109",
-      "image_local": "images\\hsr\\hook.webp"
-    },
-    {
-      "id": "1201",
-      "name": "Qingque",
-      "rarity": 5,
-      "element": "Quantum",
-      "path": "Erudition",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1201.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1201",
-      "image_local": "images\\hsr\\qingque.webp"
-    },
-    {
-      "id": "1202",
-      "name": "Tingyun",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Harmony",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1202.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1202",
-      "image_local": "images\\hsr\\tingyun.webp"
-    },
-    {
-      "id": "1206",
-      "name": "Sushang",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1206.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1206",
-      "image_local": "images\\hsr\\sushang.webp"
-    },
-    {
-      "id": "1209",
-      "name": "Yanqing",
-      "rarity": 5,
-      "element": "Ice",
-      "path": "The Hunt",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1209.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1209",
-      "image_local": "images\\hsr\\yanqing.webp"
-    },
-    {
-      "id": "1211",
-      "name": "Bailu",
-      "rarity": 5,
-      "element": "Lightning",
-      "path": "Abundance",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1211.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1211",
-      "image_local": "images\\hsr\\bailu.webp"
-    },
-    {
-      "id": "1414",
-      "name": "Dan Heng • Permansor Terrae",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1414.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/1414",
-      "image_local": "images\\hsr\\dan_heng_permansor_terrae.webp"
-    },
-    {
-      "id": "8002",
-      "name": "Trailblazer",
-      "rarity": 5,
-      "element": "Physical",
-      "path": "Destruction",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8002.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/8002",
-      "image_local": "images\\hsr\\trailblazer.webp"
-    },
-    {
-      "id": "8004",
-      "name": "Trailblazer",
-      "rarity": 5,
-      "element": "Fire",
-      "path": "Preservation",
-      "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8004.webp",
-      "page_url": "https://starrail.akademiya.app/en/characters/8004",
-      "image_local": "images\\hsr\\trailblazer.webp"
-    }
-  ],
+  {
+    "id": "1507",
+    "name": "Mortenax Blade",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1507.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1507",
+    "image_local": "images\\hsr\\mortenax_blade.webp"
+  },
+  {
+    "id": "1505",
+    "name": "Evanescia",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1505.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1505",
+    "image_local": "images\\hsr\\evanescia.webp"
+  },
+  {
+    "id": "1506",
+    "name": "Silver Wolf LV.999",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1506.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1506",
+    "image_local": "images\\hsr\\silver_wolf_lv_999.webp"
+  },
+  {
+    "id": "8010",
+    "name": "Trailblazer",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8010.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/8010",
+    "image_local": "images\\hsr\\trailblazer.webp"
+  },
+  {
+    "id": "1504",
+    "name": "Ashveil",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1504.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1504",
+    "image_local": "images\\hsr\\ashveil.webp"
+  },
+  {
+    "id": "1501",
+    "name": "Sparxie",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1501.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1501",
+    "image_local": "images\\hsr\\sparxie.webp"
+  },
+  {
+    "id": "1502",
+    "name": "Yao Guang",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1502.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1502",
+    "image_local": "images\\hsr\\yao_guang.webp"
+  },
+  {
+    "id": "1321",
+    "name": "The Dahlia",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1321.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1321",
+    "image_local": "images\\hsr\\the_dahlia.webp"
+  },
+  {
+    "id": "1415",
+    "name": "Cyrene",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1415.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1415",
+    "image_local": "images\\hsr\\cyrene.webp"
+  },
+  {
+    "id": "1412",
+    "name": "Cerydra",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1412.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1412",
+    "image_local": "images\\hsr\\cerydra.webp"
+  },
+  {
+    "id": "1413",
+    "name": "Evernight",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1413.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1413",
+    "image_local": "images\\hsr\\evernight.webp"
+  },
+  {
+    "id": "1410",
+    "name": "Hysilens",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1410.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1410",
+    "image_local": "images\\hsr\\hysilens.webp"
+  },
+  {
+    "id": "1014",
+    "name": "Saber",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1014.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1014",
+    "image_local": "images\\hsr\\saber.webp"
+  },
+  {
+    "id": "1015",
+    "name": "Archer",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1015.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1015",
+    "image_local": "images\\hsr\\archer.webp"
+  },
+  {
+    "id": "1408",
+    "name": "Phainon",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1408.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1408",
+    "image_local": "images\\hsr\\phainon.webp"
+  },
+  {
+    "id": "1406",
+    "name": "Cipher",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1406.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1406",
+    "image_local": "images\\hsr\\cipher.webp"
+  },
+  {
+    "id": "1409",
+    "name": "Hyacine",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1409.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1409",
+    "image_local": "images\\hsr\\hyacine.webp"
+  },
+  {
+    "id": "1405",
+    "name": "Anaxa",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1405.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1405",
+    "image_local": "images\\hsr\\anaxa.webp"
+  },
+  {
+    "id": "1407",
+    "name": "Castorice",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1407.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1407",
+    "image_local": "images\\hsr\\castorice.webp"
+  },
+  {
+    "id": "1404",
+    "name": "Mydei",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1404.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1404",
+    "image_local": "images\\hsr\\mydei.webp"
+  },
+  {
+    "id": "1403",
+    "name": "Tribbie",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1403.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1403",
+    "image_local": "images\\hsr\\tribbie.webp"
+  },
+  {
+    "id": "1402",
+    "name": "Aglaea",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1402.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1402",
+    "image_local": "images\\hsr\\aglaea.webp"
+  },
+  {
+    "id": "1401",
+    "name": "The Herta",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1401.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1401",
+    "image_local": "images\\hsr\\the_herta.webp"
+  },
+  {
+    "id": "8008",
+    "name": "Trailblazer",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8008.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/8008",
+    "image_local": "images\\hsr\\trailblazer.webp"
+  },
+  {
+    "id": "1225",
+    "name": "Fugue",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1225.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1225",
+    "image_local": "images\\hsr\\fugue.webp"
+  },
+  {
+    "id": "1313",
+    "name": "Sunday",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1313.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1313",
+    "image_local": "images\\hsr\\sunday.webp"
+  },
+  {
+    "id": "1317",
+    "name": "Rappa",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1317.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1317",
+    "image_local": "images\\hsr\\rappa.webp"
+  },
+  {
+    "id": "1222",
+    "name": "Lingsha",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1222.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1222",
+    "image_local": "images\\hsr\\lingsha.webp"
+  },
+  {
+    "id": "1220",
+    "name": "Feixiao",
+    "rarity": 5,
+    "element": null,
+    "path": null,
+    "image_url": "https://static.nanoka.cc/assets/hsr/avatarshopicon/1220.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1220",
+    "image_local": "images\\hsr\\feixiao.webp"
+  },
+  {
+    "id": "1223",
+    "name": "Moze",
+    "rarity": 4,
+    "element": "Lightning",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1223.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1223",
+    "image_local": "images\\hsr\\moze.webp"
+  },
+  {
+    "id": "1218",
+    "name": "Jiaoqiu",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1218.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1218",
+    "image_local": "images\\hsr\\jiaoqiu.webp"
+  },
+  {
+    "id": "1221",
+    "name": "Yunli",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1221.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1221",
+    "image_local": "images\\hsr\\yunli.webp"
+  },
+  {
+    "id": "1224",
+    "name": "March 7th",
+    "rarity": 4,
+    "element": "Imaginary",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1224.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1224",
+    "image_local": "images\\hsr\\march_7th.webp"
+  },
+  {
+    "id": "1314",
+    "name": "Jade",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1314.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1314",
+    "image_local": "images\\hsr\\jade.webp"
+  },
+  {
+    "id": "1310",
+    "name": "Firefly",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1310.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1310",
+    "image_local": "images\\hsr\\firefly.webp"
+  },
+  {
+    "id": "1315",
+    "name": "Boothill",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1315.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1315",
+    "image_local": "images\\hsr\\boothill.webp"
+  },
+  {
+    "id": "1309",
+    "name": "Robin",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1309.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1309",
+    "image_local": "images\\hsr\\robin.webp"
+  },
+  {
+    "id": "8006",
+    "name": "Trailblazer",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8006.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/8006",
+    "image_local": "images\\hsr\\trailblazer.webp"
+  },
+  {
+    "id": "1304",
+    "name": "Aventurine",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1304.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1304",
+    "image_local": "images\\hsr\\aventurine.webp"
+  },
+  {
+    "id": "1301",
+    "name": "Gallagher",
+    "rarity": 4,
+    "element": "Fire",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1301.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1301",
+    "image_local": "images\\hsr\\gallagher.webp"
+  },
+  {
+    "id": "1308",
+    "name": "Acheron",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1308.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1308",
+    "image_local": "images\\hsr\\acheron.webp"
+  },
+  {
+    "id": "1312",
+    "name": "Misha",
+    "rarity": 4,
+    "element": "Ice",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1312.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1312",
+    "image_local": "images\\hsr\\misha.webp"
+  },
+  {
+    "id": "1306",
+    "name": "Sparkle",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1306.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1306",
+    "image_local": "images\\hsr\\sparkle.webp"
+  },
+  {
+    "id": "1307",
+    "name": "Black Swan",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1307.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1307",
+    "image_local": "images\\hsr\\black_swan.webp"
+  },
+  {
+    "id": "1305",
+    "name": "Dr. Ratio",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1305.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1305",
+    "image_local": "images\\hsr\\dr_ratio.webp"
+  },
+  {
+    "id": "1214",
+    "name": "Xueyi",
+    "rarity": 4,
+    "element": "Quantum",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1214.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1214",
+    "image_local": "images\\hsr\\xueyi.webp"
+  },
+  {
+    "id": "1303",
+    "name": "Ruan Mei",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1303.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1303",
+    "image_local": "images\\hsr\\ruan_mei.webp"
+  },
+  {
+    "id": "1215",
+    "name": "Hanya",
+    "rarity": 4,
+    "element": "Physical",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1215.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1215",
+    "image_local": "images\\hsr\\hanya.webp"
+  },
+  {
+    "id": "1302",
+    "name": "Argenti",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1302.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1302",
+    "image_local": "images\\hsr\\argenti.webp"
+  },
+  {
+    "id": "1217",
+    "name": "Huohuo",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1217.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1217",
+    "image_local": "images\\hsr\\huohuo.webp"
+  },
+  {
+    "id": "1112",
+    "name": "Topaz & Numby",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1112.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1112",
+    "image_local": "images\\hsr\\topaz_numby.webp"
+  },
+  {
+    "id": "1210",
+    "name": "Guinaifen",
+    "rarity": 4,
+    "element": "Fire",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1210.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1210",
+    "image_local": "images\\hsr\\guinaifen.webp"
+  },
+  {
+    "id": "1212",
+    "name": "Jingliu",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1212.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1212",
+    "image_local": "images\\hsr\\jingliu.webp"
+  },
+  {
+    "id": "1110",
+    "name": "Lynx",
+    "rarity": 4,
+    "element": "Quantum",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1110.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1110",
+    "image_local": "images\\hsr\\lynx.webp"
+  },
+  {
+    "id": "1208",
+    "name": "Fu Xuan",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1208.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1208",
+    "image_local": "images\\hsr\\fu_xuan.webp"
+  },
+  {
+    "id": "1213",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1213.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1213",
+    "image_local": "images\\hsr\\dan_heng_imbibitor_lunae.webp"
+  },
+  {
+    "id": "1005",
+    "name": "Kafka",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1005.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1005",
+    "image_local": "images\\hsr\\kafka.webp"
+  },
+  {
+    "id": "1111",
+    "name": "Luka",
+    "rarity": 4,
+    "element": "Physical",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1111.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1111",
+    "image_local": "images\\hsr\\luka.webp"
+  },
+  {
+    "id": "1205",
+    "name": "Blade",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1205.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1205",
+    "image_local": "images\\hsr\\blade.webp"
+  },
+  {
+    "id": "1203",
+    "name": "Luocha",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1203.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1203",
+    "image_local": "images\\hsr\\luocha.webp"
+  },
+  {
+    "id": "1207",
+    "name": "Yukong",
+    "rarity": 4,
+    "element": "Imaginary",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1207.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1207",
+    "image_local": "images\\hsr\\yukong.webp"
+  },
+  {
+    "id": "1006",
+    "name": "Silver Wolf",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1006.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1006",
+    "image_local": "images\\hsr\\silver_wolf.webp"
+  },
+  {
+    "id": "1204",
+    "name": "Jing Yuan",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1204.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1204",
+    "image_local": "images\\hsr\\jing_yuan.webp"
+  },
+  {
+    "id": "1001",
+    "name": "March 7th",
+    "rarity": 4,
+    "element": "Ice",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1001.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1001",
+    "image_local": "images\\hsr\\march_7th.webp"
+  },
+  {
+    "id": "1002",
+    "name": "Dan Heng",
+    "rarity": 4,
+    "element": "Wind",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1002.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1002",
+    "image_local": "images\\hsr\\dan_heng.webp"
+  },
+  {
+    "id": "1003",
+    "name": "Himeko",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1003.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1003",
+    "image_local": "images\\hsr\\himeko.webp"
+  },
+  {
+    "id": "1004",
+    "name": "Welt",
+    "rarity": 5,
+    "element": "Imaginary",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1004.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1004",
+    "image_local": "images\\hsr\\welt.webp"
+  },
+  {
+    "id": "1008",
+    "name": "Arlan",
+    "rarity": 4,
+    "element": "Lightning",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1008.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1008",
+    "image_local": "images\\hsr\\arlan.webp"
+  },
+  {
+    "id": "1009",
+    "name": "Asta",
+    "rarity": 4,
+    "element": "Fire",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1009.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1009",
+    "image_local": "images\\hsr\\asta.webp"
+  },
+  {
+    "id": "1013",
+    "name": "Herta",
+    "rarity": 4,
+    "element": "Ice",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1013.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1013",
+    "image_local": "images\\hsr\\herta.webp"
+  },
+  {
+    "id": "1101",
+    "name": "Bronya",
+    "rarity": 5,
+    "element": "Wind",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1101.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1101",
+    "image_local": "images\\hsr\\bronya.webp"
+  },
+  {
+    "id": "1102",
+    "name": "Seele",
+    "rarity": 5,
+    "element": "Quantum",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1102.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1102",
+    "image_local": "images\\hsr\\seele.webp"
+  },
+  {
+    "id": "1103",
+    "name": "Serval",
+    "rarity": 4,
+    "element": "Lightning",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1103.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1103",
+    "image_local": "images\\hsr\\serval.webp"
+  },
+  {
+    "id": "1104",
+    "name": "Gepard",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1104.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1104",
+    "image_local": "images\\hsr\\gepard.webp"
+  },
+  {
+    "id": "1105",
+    "name": "Natasha",
+    "rarity": 4,
+    "element": "Physical",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1105.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1105",
+    "image_local": "images\\hsr\\natasha.webp"
+  },
+  {
+    "id": "1106",
+    "name": "Pela",
+    "rarity": 4,
+    "element": "Ice",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1106.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1106",
+    "image_local": "images\\hsr\\pela.webp"
+  },
+  {
+    "id": "1107",
+    "name": "Clara",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1107.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1107",
+    "image_local": "images\\hsr\\clara.webp"
+  },
+  {
+    "id": "1108",
+    "name": "Sampo",
+    "rarity": 4,
+    "element": "Wind",
+    "path": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1108.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1108",
+    "image_local": "images\\hsr\\sampo.webp"
+  },
+  {
+    "id": "1109",
+    "name": "Hook",
+    "rarity": 4,
+    "element": "Fire",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1109.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1109",
+    "image_local": "images\\hsr\\hook.webp"
+  },
+  {
+    "id": "1201",
+    "name": "Qingque",
+    "rarity": 4,
+    "element": "Quantum",
+    "path": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1201.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1201",
+    "image_local": "images\\hsr\\qingque.webp"
+  },
+  {
+    "id": "1202",
+    "name": "Tingyun",
+    "rarity": 4,
+    "element": "Lightning",
+    "path": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1202.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1202",
+    "image_local": "images\\hsr\\tingyun.webp"
+  },
+  {
+    "id": "1206",
+    "name": "Sushang",
+    "rarity": 4,
+    "element": "Physical",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1206.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1206",
+    "image_local": "images\\hsr\\sushang.webp"
+  },
+  {
+    "id": "1209",
+    "name": "Yanqing",
+    "rarity": 5,
+    "element": "Ice",
+    "path": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1209.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1209",
+    "image_local": "images\\hsr\\yanqing.webp"
+  },
+  {
+    "id": "1211",
+    "name": "Bailu",
+    "rarity": 5,
+    "element": "Lightning",
+    "path": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1211.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1211",
+    "image_local": "images\\hsr\\bailu.webp"
+  },
+  {
+    "id": "1414",
+    "name": "Dan Heng • Permansor Terrae",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1414.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/1414",
+    "image_local": "images\\hsr\\dan_heng_permansor_terrae.webp"
+  },
+  {
+    "id": "8002",
+    "name": "Trailblazer",
+    "rarity": 5,
+    "element": "Physical",
+    "path": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8002.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/8002",
+    "image_local": "images\\hsr\\trailblazer.webp"
+  },
+  {
+    "id": "8004",
+    "name": "Trailblazer",
+    "rarity": 5,
+    "element": "Fire",
+    "path": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8004.webp",
+    "page_url": "https://starrail.akademiya.app/en/characters/8004",
+    "image_local": "images\\hsr\\trailblazer.webp"
+  }
+],
   "zzz": [
     {
       "id": "1571",
