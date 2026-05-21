@@ -5,7 +5,7 @@
     "rarity": 5,
     "element": "Fire",
     "specialty": "Stun",
-    "image_url": "https://static.nanoka.cc/assets/zzz/IconFire.webp",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop65.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1571",
     "image_local": "images\\zzz\\norma.webp"
   },
@@ -15,9 +15,19 @@
     "rarity": 5,
     "element": "Wind",
     "specialty": "Anomaly",
-    "image_url": "https://static.nanoka.cc/assets/zzz/IconWind.webp",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconRole64.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1561",
     "image_local": "images\\zzz\\velina.webp"
+  },
+  {
+    "id": "1551",
+    "name": "Pyrois",
+    "rarity": 5,
+    "element": "Ether",
+    "specialty": "Attack",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconRole63.webp",
+    "page_url": "https://zzz.akademiya.app/en/characters/1551",
+    "image_local": "images\\zzz\\pyrois.webp"
   },
   {
     "id": "1401",
@@ -215,7 +225,7 @@
     "rarity": 5,
     "element": "Ice",
     "specialty": "Attack",
-    "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop43.webp",
+    "image_url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop42.webp",
     "page_url": "https://zzz.akademiya.app/en/characters/1291",
     "image_local": "images\\zzz\\hugo.webp"
   },

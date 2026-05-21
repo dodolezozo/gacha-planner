@@ -6,6 +6,7 @@
 let currentGame = 'genshin';
 let filterRarity = 'all';
 let filterElement = 'all';
+let filterSpecialty = 'all';
 let searchQuery = '';
 
 // ── DOM refs ─────────────────────────────────
@@ -18,6 +19,7 @@ const $wishCount   = document.getElementById('wishCount');
 const $searchInput = document.getElementById('searchInput');
 const $filterRarity= document.getElementById('filterRarity');
 const $filterElem  = document.getElementById('filterElement');
+const $filterSpec  = document.getElementById('filterSpecialty');
 const $btnExport   = document.getElementById('btnExport');
 const $btnImport   = document.getElementById('btnImport');
 const $importInput = document.getElementById('importInput');
@@ -170,6 +172,7 @@ function switchGame(game) {
   currentGame = game;
   filterRarity = 'all';
   filterElement = 'all';
+  filterSpecialty = 'all';
   searchQuery = '';
   $searchInput.value = '';
 
@@ -220,6 +223,24 @@ function renderFilters() {
     btn.onclick = () => { filterElement = el; renderFilters(); renderChars(); };
     $filterElem.appendChild(btn);
   });
+
+  // ── Specialty filter ──────────────────────────
+  const specialties = getSpecialties(currentGame);
+  $filterSpec.innerHTML = '';
+
+  const allSpecBtn = document.createElement('button');
+  allSpecBtn.className = 'pill' + (filterSpecialty === 'all' ? ' active' : '');
+  allSpecBtn.textContent = SPECIALTY_LABEL[currentGame];
+  allSpecBtn.onclick = () => { filterSpecialty = 'all'; renderFilters(); renderChars(); };
+  $filterSpec.appendChild(allSpecBtn);
+
+  specialties.forEach(sp => {
+    const btn = document.createElement('button');
+    btn.className = 'pill spec-pill' + (filterSpecialty === sp ? ' active' : '');
+    btn.innerHTML = specIcon(sp, 'pill-icon') + `<span>${sp}</span>`;
+    btn.onclick = () => { filterSpecialty = sp; renderFilters(); renderChars(); };
+    $filterSpec.appendChild(btn);
+  });
 }
 
 // ── Character grid ────────────────────────────
@@ -228,6 +249,10 @@ function renderChars() {
 
   if (filterRarity !== 'all') chars = chars.filter(c => String(c.rarity) === filterRarity);
   if (filterElement !== 'all') chars = chars.filter(c => c.element === filterElement);
+  if (filterSpecialty !== 'all') {
+    const specKey = SPECIALTY_KEY[currentGame];
+    chars = chars.filter(c => c[specKey] === filterSpecialty);
+  }
   if (searchQuery) chars = chars.filter(c => c.name.toLowerCase().includes(searchQuery));
 
   chars = [...chars].sort((a,b) => {

@@ -5,7 +5,7 @@
     "rarity": 5,
     "element": "Fire",
     "path": "Nihility",
-    "image_url": "https://static.nanoka.cc/assets/hsr/avatarshopicon/1507.webp",
+    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1507.webp",
     "page_url": "https://starrail.akademiya.app/en/characters/1507",
     "image_local": "images\\hsr\\mortenax_blade.webp"
   },
@@ -33,7 +33,7 @@
     "id": "8010",
     "name": "Trailblazer",
     "rarity": 5,
-    "element": null,
+    "element": "Lightning",
     "path": "Elation",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/8010.webp",
     "page_url": "https://starrail.akademiya.app/en/characters/8010",
@@ -283,16 +283,16 @@
     "id": "1220",
     "name": "Feixiao",
     "rarity": 5,
-    "element": "Wind",
-    "path": "The Hunt",
-    "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1220.webp",
+    "element": null,
+    "path": null,
+    "image_url": "https://static.nanoka.cc/assets/hsr/avatarshopicon/1220.webp",
     "page_url": "https://starrail.akademiya.app/en/characters/1220",
     "image_local": "images\\hsr\\feixiao.webp"
   },
   {
     "id": "1223",
     "name": "Moze",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Lightning",
     "path": "The Hunt",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1223.webp",
@@ -322,7 +322,7 @@
   {
     "id": "1224",
     "name": "March 7th",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Imaginary",
     "path": "The Hunt",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1224.webp",
@@ -392,7 +392,7 @@
   {
     "id": "1301",
     "name": "Gallagher",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Fire",
     "path": "Abundance",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1301.webp",
@@ -412,7 +412,7 @@
   {
     "id": "1312",
     "name": "Misha",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Ice",
     "path": "Destruction",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1312.webp",
@@ -452,7 +452,7 @@
   {
     "id": "1214",
     "name": "Xueyi",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Quantum",
     "path": "Destruction",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1214.webp",
@@ -472,7 +472,7 @@
   {
     "id": "1215",
     "name": "Hanya",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Physical",
     "path": "Harmony",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1215.webp",
@@ -512,7 +512,7 @@
   {
     "id": "1210",
     "name": "Guinaifen",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Fire",
     "path": "Nihility",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1210.webp",
@@ -532,7 +532,7 @@
   {
     "id": "1110",
     "name": "Lynx",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Quantum",
     "path": "Abundance",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1110.webp",
@@ -572,7 +572,7 @@
   {
     "id": "1111",
     "name": "Luka",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Physical",
     "path": "Nihility",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1111.webp",
@@ -602,7 +602,7 @@
   {
     "id": "1207",
     "name": "Yukong",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Imaginary",
     "path": "Harmony",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1207.webp",
@@ -632,7 +632,7 @@
   {
     "id": "1001",
     "name": "March 7th",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Ice",
     "path": "Preservation",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1001.webp",
@@ -642,7 +642,7 @@
   {
     "id": "1002",
     "name": "Dan Heng",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Wind",
     "path": "The Hunt",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1002.webp",
@@ -672,7 +672,7 @@
   {
     "id": "1008",
     "name": "Arlan",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Lightning",
     "path": "Destruction",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1008.webp",
@@ -682,7 +682,7 @@
   {
     "id": "1009",
     "name": "Asta",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Fire",
     "path": "Harmony",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1009.webp",
@@ -692,7 +692,7 @@
   {
     "id": "1013",
     "name": "Herta",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Ice",
     "path": "Erudition",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1013.webp",
@@ -722,7 +722,7 @@
   {
     "id": "1103",
     "name": "Serval",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Lightning",
     "path": "Erudition",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1103.webp",
@@ -742,7 +742,7 @@
   {
     "id": "1105",
     "name": "Natasha",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Physical",
     "path": "Abundance",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1105.webp",
@@ -752,7 +752,7 @@
   {
     "id": "1106",
     "name": "Pela",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Ice",
     "path": "Nihility",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1106.webp",
@@ -772,7 +772,7 @@
   {
     "id": "1108",
     "name": "Sampo",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Wind",
     "path": "Nihility",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1108.webp",
@@ -782,7 +782,7 @@
   {
     "id": "1109",
     "name": "Hook",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Fire",
     "path": "Destruction",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1109.webp",
@@ -792,7 +792,7 @@
   {
     "id": "1201",
     "name": "Qingque",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Quantum",
     "path": "Erudition",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1201.webp",
@@ -802,7 +802,7 @@
   {
     "id": "1202",
     "name": "Tingyun",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Lightning",
     "path": "Harmony",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1202.webp",
@@ -812,7 +812,7 @@
   {
     "id": "1206",
     "name": "Sushang",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Physical",
     "path": "The Hunt",
     "image_url": "https://static.nanoka.cc/assets/hsr/avataricon/avatar/1206.webp",

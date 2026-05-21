@@ -22,7 +22,7 @@
   {
     "id": "1306",
     "name": "Augusta",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Electro",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1306/icon",
@@ -32,7 +32,7 @@
   {
     "id": "1103",
     "name": "Baizhi",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Glacio",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1103/icon",
@@ -42,7 +42,7 @@
   {
     "id": "1206",
     "name": "Brant",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Fusion",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1206/icon",
@@ -62,7 +62,7 @@
   {
     "id": "1301",
     "name": "Calcharo",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Electro",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1301/icon",
@@ -72,7 +72,7 @@
   {
     "id": "1603",
     "name": "Camellya",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Havoc",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1603/icon",
@@ -82,7 +82,7 @@
   {
     "id": "1607",
     "name": "Cantarella",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Havoc",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1607/icon",
@@ -112,7 +112,7 @@
   {
     "id": "1205",
     "name": "Changli",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Fusion",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1205/icon",
@@ -142,7 +142,7 @@
   {
     "id": "1407",
     "name": "Ciaccona",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Aero",
     "weapon": "Pistols",
     "image_url": "https://api-v2.encore.moe/role/1407/icon",
@@ -162,7 +162,7 @@
   {
     "id": "1203",
     "name": "Encore",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Fusion",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1203/icon",
@@ -192,7 +192,7 @@
   {
     "id": "1410",
     "name": "Iuno",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Aero",
     "weapon": "Gauntlets",
     "image_url": "https://api-v2.encore.moe/role/1410/icon",
@@ -212,7 +212,7 @@
   {
     "id": "1304",
     "name": "Jinhsi",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Spectro",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1304/icon",
@@ -222,7 +222,7 @@
   {
     "id": "1404",
     "name": "Jiyan",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Aero",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1404/icon",
@@ -232,7 +232,7 @@
   {
     "id": "1104",
     "name": "Lingyang",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Glacio",
     "weapon": "Gauntlets",
     "image_url": "https://api-v2.encore.moe/role/1104/icon",
@@ -242,7 +242,7 @@
   {
     "id": "1504",
     "name": "Lumi",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Electro",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1504/icon",
@@ -252,7 +252,7 @@
   {
     "id": "1207",
     "name": "Lupa",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Fusion",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1207/icon",
@@ -272,7 +272,7 @@
   {
     "id": "1509",
     "name": "Lynae",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Spectro",
     "weapon": "Pistols",
     "image_url": "https://api-v2.encore.moe/role/1509/icon",
@@ -302,7 +302,7 @@
   {
     "id": "1506",
     "name": "Phoebe",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Spectro",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1506/icon",
@@ -312,7 +312,7 @@
   {
     "id": "1608",
     "name": "Phrolova",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Havoc",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1608/icon",
@@ -332,7 +332,7 @@
   {
     "id": "1606",
     "name": "Roccia",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Havoc",
     "weapon": "Gauntlets",
     "image_url": "https://api-v2.encore.moe/role/1606/icon",
@@ -352,7 +352,7 @@
   {
     "id": "1604",
     "name": "Rover: Havoc",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Havoc",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1604/icon",
@@ -362,7 +362,7 @@
   {
     "id": "1502",
     "name": "Rover: Spectro",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Spectro",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1502/icon",
@@ -372,7 +372,7 @@
   {
     "id": "1102",
     "name": "Sanhua",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Glacio",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1102/icon",
@@ -402,7 +402,7 @@
   {
     "id": "1601",
     "name": "Taoqi",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Havoc",
     "weapon": "Broadblade",
     "image_url": "https://api-v2.encore.moe/role/1601/icon",
@@ -422,7 +422,7 @@
   {
     "id": "1305",
     "name": "Xiangli Yao",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Electro",
     "weapon": "Gauntlets",
     "image_url": "https://api-v2.encore.moe/role/1305/icon",
@@ -432,7 +432,7 @@
   {
     "id": "1402",
     "name": "Yangyang",
-    "rarity": 5,
+    "rarity": 4,
     "element": "Aero",
     "weapon": "Sword",
     "image_url": "https://api-v2.encore.moe/role/1402/icon",
@@ -442,7 +442,7 @@
   {
     "id": "1302",
     "name": "Yinlin",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Electro",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1302/icon",
@@ -472,7 +472,7 @@
   {
     "id": "1507",
     "name": "Zani",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Spectro",
     "weapon": "Gauntlets",
     "image_url": "https://api-v2.encore.moe/role/1507/icon",
@@ -482,7 +482,7 @@
   {
     "id": "1105",
     "name": "Zhezhi",
-    "rarity": 4,
+    "rarity": 5,
     "element": "Glacio",
     "weapon": "Rectifier",
     "image_url": "https://api-v2.encore.moe/role/1105/icon",

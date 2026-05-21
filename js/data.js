@@ -33,6 +33,21 @@ const GAMES = {
   },
 };
 
+const SPECIALTY_KEY = {
+  genshin: 'weapon',
+  hsr: 'path',
+  zzz: 'specialty',
+  wuwa: 'weapon',
+};
+
+// Human-readable label for the specialty field per game
+const SPECIALTY_LABEL = {
+  genshin: 'Weapon',
+  hsr: 'Path',
+  zzz: 'Specialty',
+  wuwa: 'Weapon',
+};
+
 // Fallback emoji avatars per element (when image fails)
 const ELEMENT_EMOJI = {
   Pyro:'🔥', Hydro:'💧', Anemo:'🌀', Electro:'⚡', Dendro:'🌿', Cryo:'❄️', Geo:'🪨',
@@ -69,6 +84,7 @@ function getElements(game) {
 
 function getSpecialties(game) {
   const chars = getChars(game);
-  const set = new Set(chars.map(c => c.specialty).filter(Boolean));
+  const key = SPECIALTY_KEY[game];
+  const set = new Set(chars.map(c => c[key]).filter(Boolean));
   return [...set].sort();
 }
