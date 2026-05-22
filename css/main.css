@@ -78,7 +78,7 @@ body {
 
 .game-tab {
   display: flex; align-items: center; justify-content: center;
-  padding: 6px 18px; border-radius: var(--radius-sm);
+  padding: 6px 6px; border-radius: var(--radius-sm);
   border: none; background: transparent; cursor: pointer;
   transition: all .2s var(--ease); height: 38px;
 }
