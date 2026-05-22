@@ -2,6 +2,9 @@
    app.js — Main application logic
    ═══════════════════════════════════════════════ */
 
+// ── Feature flags ────────────────────────────
+const WEAPONS_ENABLED = false;  // set true to re-enable weapon picker
+
 // ── State ────────────────────────────────────
 let currentGame = 'genshin';
 let filterRarity = 'all';
@@ -23,6 +26,7 @@ const $filterSpec  = document.getElementById('filterSpecialty');
 const $btnExport   = document.getElementById('btnExport');
 const $btnImport   = document.getElementById('btnImport');
 const $importInput = document.getElementById('importInput');
+const $wishCost    = document.getElementById('wishCost');
 
 // ── Icon helpers ─────────────────────────────
 // Converts specialty name to a safe filename slug ("The Hunt" → "TheHunt")
@@ -79,11 +83,151 @@ function gameLogoEl(game) {
 }
 
 
+// ── Weapon picker ─────────────────────────────
+let wpCurrentItemId   = null;
+let wpCurrentItemSpec = null;   // character's specialty — used to pre-filter list
+
+// Normalize specialty values that differ between character data and weapon data
+const SPEC_NORMALIZE = {
+  'Pole': 'Polearm',  // GI character scraper stores "Pole", weapon scraper stores "Polearm"
+};
+
+let $wpPopup, $wpSearch, $wpList;
+
+function initWeaponPicker() {
+  $wpPopup = document.createElement('div');
+  $wpPopup.className = 'weapon-picker-popup';
+  $wpPopup.innerHTML = `
+    <input class="weapon-picker-search" type="text" placeholder="Search…" autocomplete="off">
+    <div class="weapon-picker-list"></div>
+  `;
+  document.body.appendChild($wpPopup);
+
+  $wpSearch = $wpPopup.querySelector('.weapon-picker-search');
+  $wpList   = $wpPopup.querySelector('.weapon-picker-list');
+
+  $wpSearch.addEventListener('input', () => fillWeaponList($wpSearch.value.toLowerCase()));
+
+  // Close on outside click
+  document.addEventListener('click', (e) => {
+    if ($wpPopup.classList.contains('open') &&
+        !$wpPopup.contains(e.target) &&
+        !e.target.closest('.weapon-picker-btn')) {
+      closeWeaponPicker();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeWeaponPicker();
+  });
+}
+
+function openWeaponPicker(itemId, triggerEl, itemSpec) {
+  wpCurrentItemId   = itemId;
+  wpCurrentItemSpec = itemSpec ? (SPEC_NORMALIZE[itemSpec] || itemSpec) : null;
+  $wpSearch.value   = '';
+
+  // Placeholder hints: "Sword…" when filtered, generic otherwise
+  $wpSearch.placeholder = wpCurrentItemSpec ? `${wpCurrentItemSpec}… (type to search all)` : 'Search…';
+
+  fillWeaponList('');
+
+  $wpPopup.classList.add('open');
+
+  // Position popup fixed relative to trigger button
+  const rect  = triggerEl.getBoundingClientRect();
+  const popW  = 284;
+  const popH  = 340;
+  const left  = Math.max(8, Math.min(rect.left, window.innerWidth - popW - 8));
+  const below = rect.bottom + 4;
+  const above = rect.top - popH - 4;
+  const top   = (below + popH < window.innerHeight) ? below : Math.max(8, above);
+
+  $wpPopup.style.left = `${left}px`;
+  $wpPopup.style.top  = `${top}px`;
+
+  requestAnimationFrame(() => $wpSearch.focus());
+}
+
+function closeWeaponPicker() {
+  $wpPopup.classList.remove('open');
+  wpCurrentItemId   = null;
+  wpCurrentItemSpec = null;
+}
+
+function fillWeaponList(query) {
+  const allWeapons = getWeapons(currentGame);
+
+  // When no query is typed, restrict to the character's matching type.
+  // Typing anything searches the full list by name.
+  let weapons;
+  if (query) {
+    weapons = allWeapons.filter(w => w.name.toLowerCase().includes(query));
+  } else if (wpCurrentItemSpec) {
+    weapons = allWeapons.filter(w => w.type === wpCurrentItemSpec);
+  } else {
+    weapons = [...allWeapons];
+  }
+
+  weapons = [...weapons].sort((a, b) => {
+    if (b.rarity !== a.rarity) return b.rarity - a.rarity;
+    return a.name.localeCompare(b.name);
+  });
+
+  $wpList.innerHTML = '';
+
+  // "None" clear option
+  const noneEl = document.createElement('div');
+  noneEl.className = 'weapon-opt weapon-opt-none';
+  noneEl.textContent = '— None —';
+  noneEl.addEventListener('click', () => selectWeapon(null));
+  $wpList.appendChild(noneEl);
+
+  if (!weapons.length) {
+    const emptyEl = document.createElement('div');
+    emptyEl.className = 'weapon-opt-empty';
+    emptyEl.textContent = query
+      ? 'No results'
+      : (allWeapons.length ? `No ${wpCurrentItemSpec} weapons found` : 'Run scrape_weapons.py first');
+    $wpList.appendChild(emptyEl);
+    return;
+  }
+
+  const rarityOpts = GAMES[currentGame].rarityOptions || [];
+
+  weapons.forEach(w => {
+    const rLabel = (rarityOpts.find(o => o.val === w.rarity) || {}).label || `${w.rarity}★`;
+
+    const el = document.createElement('div');
+    el.className = `weapon-opt rarity-${w.rarity}`;
+    el.innerHTML = `
+      ${w.image_url
+        ? `<img class="weapon-opt-img" src="${w.image_url}" alt="${w.name}" loading="lazy" onerror="this.style.display='none'">`
+        : `<div class="weapon-opt-img-ph"></div>`}
+      <div class="weapon-opt-info">
+        <div class="weapon-opt-name">${w.name}</div>
+        <div class="weapon-opt-meta">${rLabel}${w.type ? ' · ' + w.type : ''}</div>
+      </div>
+    `;
+    el.addEventListener('click', () => selectWeapon(w.id));
+    $wpList.appendChild(el);
+  });
+}
+
+function selectWeapon(weaponId) {
+  if (!wpCurrentItemId) return;
+  updateWishItem(currentGame, wpCurrentItemId, 'weaponId', weaponId);
+  closeWeaponPicker();
+  renderWishlist();
+}
+
 // ── Init ─────────────────────────────────────
 async function init() {
   loadWishlists();
   await loadCharacters();
+  if (WEAPONS_ENABLED) await loadWeapons();
   buildGameTabs();
+  if (WEAPONS_ENABLED) initWeaponPicker();
   switchGame('genshin');
 
   $searchInput.addEventListener('input', () => {
@@ -146,6 +290,24 @@ function renderAll() {
 
 // ── Filters ──────────────────────────────────
 function renderFilters() {
+  // ── Rarity pills (rebuilt per game for custom labels) ──────────────────────
+  const rarityOpts = GAMES[currentGame].rarityOptions || [{val:5,label:'5★'},{val:4,label:'4★'}];
+  $filterRarity.innerHTML = '';
+
+  const allRarityBtn = document.createElement('button');
+  allRarityBtn.className = 'pill' + (filterRarity === 'all' ? ' active' : '');
+  allRarityBtn.dataset.filterRarity = 'all';
+  allRarityBtn.textContent = 'Rarity';
+  $filterRarity.appendChild(allRarityBtn);
+
+  rarityOpts.forEach(({val, label}) => {
+    const btn = document.createElement('button');
+    btn.className = 'pill' + (filterRarity === String(val) ? ' active' : '');
+    btn.dataset.filterRarity = String(val);
+    btn.textContent = label;
+    $filterRarity.appendChild(btn);
+  });
+
   $filterRarity.querySelectorAll('[data-filter-rarity]').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.filterRarity === filterRarity);
     btn.onclick = () => {
@@ -161,7 +323,7 @@ function renderFilters() {
 
   const allBtn = document.createElement('button');
   allBtn.className = 'pill' + (filterElement === 'all' ? ' active' : '');
-  allBtn.textContent = 'All';
+  allBtn.textContent = GAMES[currentGame].elementLabel || 'Element';
   allBtn.onclick = () => { filterElement = 'all'; renderFilters(); renderChars(); };
   $filterElem.appendChild(allBtn);
 
@@ -198,10 +360,15 @@ function renderChars() {
   let chars = getChars(currentGame);
 
   if (filterRarity !== 'all') chars = chars.filter(c => String(c.rarity) === filterRarity);
-  if (filterElement !== 'all') chars = chars.filter(c => c.element === filterElement);
+  if (filterElement !== 'all') chars = chars.filter(c =>
+    Array.isArray(c.elements) ? c.elements.includes(filterElement) : c.element === filterElement
+  );
   if (filterSpecialty !== 'all') {
     const specKey = SPECIALTY_KEY[currentGame];
-    chars = chars.filter(c => c[specKey] === filterSpecialty);
+    const pluralKey = specKey + 's';
+    chars = chars.filter(c =>
+      Array.isArray(c[pluralKey]) ? c[pluralKey].includes(filterSpecialty) : c[specKey] === filterSpecialty
+    );
   }
   if (searchQuery) chars = chars.filter(c => c.name.toLowerCase().includes(searchQuery));
 
@@ -262,10 +429,33 @@ function buildCharCard(char) {
   return div;
 }
 
+// ── Wishlist cost ──────────────────────────────
+function renderWishCost() {
+  const game_cfg = GAMES[currentGame];
+  const allOpts  = ['None', ...game_cfg.dupOptions]; // ['None','C0'..'C6']
+  const topLabel = game_cfg.rarityOptions?.[0]?.label ?? '5★';
+
+  const total = getWishlist(currentGame).reduce((sum, item) => {
+    if (item.rarity !== 5) return sum;
+    const ci = allOpts.indexOf(item.current ?? 'None');
+    const ti = allOpts.indexOf(item.target  ?? game_cfg.dupOptions[0]);
+    return sum + Math.max(0, ti - ci);
+  }, 0);
+
+  if (total > 0) {
+    $wishCost.textContent = `${total} ${topLabel}`;
+    $wishCost.classList.add('visible');
+  } else {
+    $wishCost.textContent = '';
+    $wishCost.classList.remove('visible');
+  }
+}
+
 // ── Wishlist ──────────────────────────────────
 function renderWishlist() {
   const list = getWishlist(currentGame);
   $wishCount.textContent = `${list.length} entr${list.length !== 1 ? 'ies' : 'y'}`;
+  renderWishCost();
   $wishlistBody.innerHTML = '';
 
   if (!list.length) {
@@ -283,14 +473,36 @@ function renderWishlist() {
 }
 
 function buildWishItem(item, idx, total) {
-  const game = GAMES[currentGame];
+  const game    = GAMES[currentGame];
   const specKey = SPECIALTY_KEY[currentGame];
-  const spec = item[specKey];
-  const div = document.createElement('div');
+  const spec    = item[specKey];
+  const div     = document.createElement('div');
   div.className = `wish-item rarity-${item.rarity}`;
 
-  const dupOpts = game.dupOptions.map(o =>
-    `<option value="${o}"${item.target === o ? ' selected' : ''}>${o}</option>`
+  const currentVal = item.current ?? 'None';
+  const targetVal  = item.target  ?? game.dupOptions[0];
+
+  const currentOpts = ['None', ...game.dupOptions].map(o =>
+    `<option value="${o}"${currentVal === o ? ' selected' : ''}>${o}</option>`
+  ).join('');
+  const targetOpts = game.dupOptions.map(o =>
+    `<option value="${o}"${targetVal === o ? ' selected' : ''}>${o}</option>`
+  ).join('');
+
+  // Weapon picker state
+  const weaponId   = item.weaponId   || null;
+  const weaponData = weaponId ? (getWeapons(currentGame).find(w => w.id === weaponId) || null) : null;
+  const weaponRef  = item.weaponRefine || 'None';
+
+  const wBtnContent = weaponData
+    ? `${weaponData.image_url
+        ? `<img class="weapon-btn-img" src="${weaponData.image_url}" alt="${weaponData.name}" loading="lazy" onerror="this.style.display='none'">`
+        : ''
+      }<span class="weapon-btn-name">${weaponData.name}</span>`
+    : `<span class="weapon-btn-name weapon-btn-none">None</span>`;
+
+  const refineOpts = ['None','R1','R2','R3','R4','R5'].map(r =>
+    `<option value="${r}"${weaponRef === r ? ' selected' : ''}>${r}</option>`
   ).join('');
 
   div.innerHTML = `
@@ -320,16 +532,29 @@ function buildWishItem(item, idx, total) {
       </div>
     </div>
     <div class="wish-controls">
-      <div class="ctrl-group" style="max-width:95px">
-        <div class="ctrl-label">${game.dupLabel}</div>
-        <select class="ctrl-select" data-field="target">${dupOpts}</select>
+      <div class="ctrl-group" style="max-width:80px">
+        <div class="ctrl-label">Current</div>
+        <select class="ctrl-select" data-field="current">${currentOpts}</select>
       </div>
-      <div class="ctrl-group">
-        <div class="ctrl-label">Weapon</div>
-        <input class="ctrl-input" type="text" data-field="weapon"
-               placeholder="Target weapon…" value="${item.weapon||''}" />
+      <div class="ctrl-group" style="max-width:80px">
+        <div class="ctrl-label">Target</div>
+        <select class="ctrl-select" data-field="target">${targetOpts}</select>
       </div>
     </div>
+    ${WEAPONS_ENABLED ? `
+    <div class="wish-controls">
+      <div class="ctrl-group">
+        <div class="ctrl-label">${game.weaponLabel}</div>
+        <button class="weapon-picker-btn" title="Pick target ${game.weaponLabel}">
+          ${wBtnContent}
+          <span class="weapon-btn-arrow">▾</span>
+        </button>
+      </div>
+      <div class="ctrl-group" style="max-width:68px">
+        <div class="ctrl-label">Refine</div>
+        <select class="ctrl-select" data-field="weaponRefine">${refineOpts}</select>
+      </div>
+    </div>` : ''}
   `;
 
   div.querySelector('.btn-remove').addEventListener('click', () => {
@@ -342,10 +567,21 @@ function buildWishItem(item, idx, total) {
       if (moveWishItem(currentGame, idx, parseInt(btn.dataset.dir))) renderWishlist();
     });
   });
-  div.querySelector('[data-field="target"]').addEventListener('change', e =>
-    updateWishItem(currentGame, item.id, 'target', e.target.value));
-  div.querySelector('[data-field="weapon"]').addEventListener('input', e =>
-    updateWishItem(currentGame, item.id, 'weapon', e.target.value));
+  div.querySelector('[data-field="current"]').addEventListener('change', e => {
+    updateWishItem(currentGame, item.id, 'current', e.target.value);
+    renderWishCost();
+  });
+  div.querySelector('[data-field="target"]').addEventListener('change', e => {
+    updateWishItem(currentGame, item.id, 'target', e.target.value);
+    renderWishCost();
+  });
+  if (WEAPONS_ENABLED) {
+    div.querySelector('[data-field="weaponRefine"]').addEventListener('change', e =>
+      updateWishItem(currentGame, item.id, 'weaponRefine', e.target.value));
+    div.querySelector('.weapon-picker-btn').addEventListener('click', function() {
+      openWeaponPicker(item.id, this, spec);
+    });
+  }
 
   return div;
 }

@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "23059",
+    "name": "Reforged in Hellfire",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23059.webp"
+  },
+  {
+    "id": "21060",
+    "name": "A Dream Scented in Wheat",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21060.webp"
+  },
+  {
+    "id": "23034",
+    "name": "A Grounded Ascent",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23034.webp"
+  },
+  {
+    "id": "21012",
+    "name": "A Secret Vow",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21012.webp"
+  },
+  {
+    "id": "23045",
+    "name": "A Thankless Coronation",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23045.webp"
+  },
+  {
+    "id": "21058",
+    "name": "A Trail of Bygone Blood",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21058.webp"
+  },
+  {
+    "id": "20014",
+    "name": "Adversarial",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20014.webp"
+  },
+  {
+    "id": "21045",
+    "name": "After the Charmony Fall",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21045.webp"
+  },
+  {
+    "id": "23024",
+    "name": "Along the Passing Shore",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23024.webp"
+  },
+  {
+    "id": "20003",
+    "name": "Amber",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20003.webp"
+  },
+  {
+    "id": "23018",
+    "name": "An Instant Before A Gaze",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23018.webp"
+  },
+  {
+    "id": "20000",
+    "name": "Arrows",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20000.webp"
+  },
+  {
+    "id": "23020",
+    "name": "Baptism of Pure Thought",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23020.webp"
+  },
+  {
+    "id": "23010",
+    "name": "Before Dawn",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23010.webp"
+  },
+  {
+    "id": "22000",
+    "name": "Before the Tutorial Mission Starts",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22000.webp"
+  },
+  {
+    "id": "21044",
+    "name": "Boundless Choreo",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21044.webp"
+  },
+  {
+    "id": "23015",
+    "name": "Brighter Than the Sun",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23015.webp"
+  },
+  {
+    "id": "23003",
+    "name": "But the Battle Isn't Over",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23003.webp"
+  },
+  {
+    "id": "21032",
+    "name": "Carve the Moon, Weave the Clouds",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21032.webp"
+  },
+  {
+    "id": "20005",
+    "name": "Chorus",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20005.webp"
+  },
+  {
+    "id": "20002",
+    "name": "Collapsing Sky",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20002.webp"
+  },
+  {
+    "id": "21043",
+    "name": "Concert for Two",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21043.webp"
+  },
+  {
+    "id": "20001",
+    "name": "Cornucopia",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20001.webp"
+  },
+  {
+    "id": "24001",
+    "name": "Cruising in the Stellar Sea",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24001.webp"
+  },
+  {
+    "id": "23030",
+    "name": "Dance at Sunset",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23030.webp"
+  },
+  {
+    "id": "21018",
+    "name": "Dance! Dance! Dance!",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21018.webp"
+  },
+  {
+    "id": "20007",
+    "name": "Darting Arrow",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20007.webp"
+  },
+  {
+    "id": "20006",
+    "name": "Data Bank",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20006.webp"
+  },
+  {
+    "id": "21002",
+    "name": "Day One of My New Life",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21002.webp"
+  },
+  {
+    "id": "23053",
+    "name": "Dazzled by a Flowery World",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23053.webp"
+  },
+  {
+    "id": "20010",
+    "name": "Defense",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20010.webp"
+  },
+  {
+    "id": "21039",
+    "name": "Destiny's Threads Forewoven",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21039.webp"
+  },
+  {
+    "id": "21048",
+    "name": "Dream's Montage",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21048.webp"
+  },
+  {
+    "id": "21036",
+    "name": "Dreamville Adventure",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21036.webp"
+  },
+  {
+    "id": "23021",
+    "name": "Earthly Escapade",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23021.webp"
+  },
+  {
+    "id": "23008",
+    "name": "Echoes of the Coffin",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23008.webp"
+  },
+  {
+    "id": "24006",
+    "name": "Elation Brimming With Blessings",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24006.webp"
+  },
+  {
+    "id": "23048",
+    "name": "Epoch Etched in Golden Blood",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23048.webp"
+  },
+  {
+    "id": "24004",
+    "name": "Eternal Calculus",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24004.webp"
+  },
+  {
+    "id": "21008",
+    "name": "Eyes of the Prey",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21008.webp"
+  },
+  {
+    "id": "21022",
+    "name": "Fermata",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21022.webp"
+  },
+  {
+    "id": "21037",
+    "name": "Final Victor",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21037.webp"
+  },
+  {
+    "id": "20008",
+    "name": "Fine Fruit",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20008.webp"
+  },
+  {
+    "id": "23039",
+    "name": "Flame of Blood, Blaze My Path",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23039.webp"
+  },
+  {
+    "id": "21038",
+    "name": "Flames Afar",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21038.webp"
+  },
+  {
+    "id": "23026",
+    "name": "Flowing Nightglow",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23026.webp"
+  },
+  {
+    "id": "22006",
+    "name": "Fly Into a Pink Tomorrow",
+    "rarity": 5,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22006.webp"
+  },
+  {
+    "id": "22002",
+    "name": "For Tomorrow's Journey",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22002.webp"
+  },
+  {
+    "id": "21051",
+    "name": "Geniuses' Greetings",
+    "rarity": 5,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21051.webp"
+  },
+  {
+    "id": "21020",
+    "name": "Geniuses' Repose",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21020.webp"
+  },
+  {
+    "id": "21001",
+    "name": "Good Night and Sleep Well",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21001.webp"
+  },
+  {
+    "id": "22001",
+    "name": "Hey, Over Here",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22001.webp"
+  },
+  {
+    "id": "20018",
+    "name": "Hidden Shadow",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20018.webp"
+  },
+  {
+    "id": "21061",
+    "name": "Holiday Thermae Escapade",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21061.webp"
+  },
+  {
+    "id": "23014",
+    "name": "I Shall Be My Own Sword",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23014.webp"
+  },
+  {
+    "id": "23031",
+    "name": "I Venture Forth to Hunt",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23031.webp"
+  },
+  {
+    "id": "23038",
+    "name": "If Time Were a Flower",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23038.webp"
+  },
+  {
+    "id": "21056",
+    "name": "In Pursuit of the Wind",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21056.webp"
+  },
+  {
+    "id": "23004",
+    "name": "In the Name of the World",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23004.webp"
+  },
+  {
+    "id": "23001",
+    "name": "In the Night",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23001.webp"
+  },
+  {
+    "id": "23007",
+    "name": "Incessant Rain",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23007.webp"
+  },
+  {
+    "id": "21042",
+    "name": "Indelible Promise",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21042.webp"
+  },
+  {
+    "id": "23023",
+    "name": "Inherently Unjust Destiny",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23023.webp"
+  },
+  {
+    "id": "23037",
+    "name": "Into the Unreachable Veil",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23037.webp"
+  },
+  {
+    "id": "21041",
+    "name": "It's Showtime",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21041.webp"
+  },
+  {
+    "id": "21053",
+    "name": "Journey, Forever Peaceful",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21053.webp"
+  },
+  {
+    "id": "21009",
+    "name": "Landau's Choice",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21009.webp"
+  },
+  {
+    "id": "23043",
+    "name": "Lies Dance on the Breeze",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23043.webp"
+  },
+  {
+    "id": "23041",
+    "name": "Life Should Be Cast to Flames",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23041.webp"
+  },
+  {
+    "id": "20024",
+    "name": "Lingering Tear",
+    "rarity": 5,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20024.webp"
+  },
+  {
+    "id": "23042",
+    "name": "Long May Rainbows Adorn the Sky",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23042.webp"
+  },
+  {
+    "id": "23035",
+    "name": "Long Road Leads Home",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23035.webp"
+  },
+  {
+    "id": "20011",
+    "name": "Loop",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20011.webp"
+  },
+  {
+    "id": "23040",
+    "name": "Make Farewells More Beautiful",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23040.webp"
+  },
+  {
+    "id": "21013",
+    "name": "Make the World Clamor",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21013.webp"
+  },
+  {
+    "id": "20019",
+    "name": "Mediation",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20019.webp"
+  },
+  {
+    "id": "21004",
+    "name": "Memories of the Past",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21004.webp"
+  },
+  {
+    "id": "24005",
+    "name": "Memory's Curtain Never Falls",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24005.webp"
+  },
+  {
+    "id": "20012",
+    "name": "Meshing Cogs",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20012.webp"
+  },
+  {
+    "id": "23005",
+    "name": "Moment of Victory",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23005.webp"
+  },
+  {
+    "id": "20015",
+    "name": "Multiplication",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20015.webp"
+  },
+  {
+    "id": "21064",
+    "name": "Mushy Shroomy's Adventures",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21064.webp"
+  },
+  {
+    "id": "20016",
+    "name": "Mutual Demise",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20016.webp"
+  },
+  {
+    "id": "23050",
+    "name": "Never Forget Her Flame",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23050.webp"
+  },
+  {
+    "id": "23017",
+    "name": "Night of Fright",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23017.webp"
+  },
+  {
+    "id": "23000",
+    "name": "Night on the Milky Way",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23000.webp"
+  },
+  {
+    "id": "22003",
+    "name": "Ninja Record: Sound Hunt",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22003.webp"
+  },
+  {
+    "id": "23033",
+    "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23033.webp"
+  },
+  {
+    "id": "21033",
+    "name": "Nowhere to Run",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21033.webp"
+  },
+  {
+    "id": "24000",
+    "name": "On the Fall of an Aeon",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24000.webp"
+  },
+  {
+    "id": "21003",
+    "name": "Only Silence Remains",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21003.webp"
+  },
+  {
+    "id": "20013",
+    "name": "Passkey",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20013.webp"
+  },
+  {
+    "id": "21025",
+    "name": "Past and Future",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21025.webp"
+  },
+  {
+    "id": "23019",
+    "name": "Past Self in Mirror",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23019.webp"
+  },
+  {
+    "id": "23006",
+    "name": "Patience Is All You Need",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23006.webp"
+  },
+  {
+    "id": "21014",
+    "name": "Perfect Timing",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21014.webp"
+  },
+  {
+    "id": "20017",
+    "name": "Pioneering",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20017.webp"
+  },
+  {
+    "id": "21011",
+    "name": "Planetary Rendezvous",
+    "rarity": 4,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21011.webp"
+  },
+  {
+    "id": "21046",
+    "name": "Poised to Bloom",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21046.webp"
+  },
+  {
+    "id": "21000",
+    "name": "Post-Op Conversation",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21000.webp"
+  },
+  {
+    "id": "21021",
+    "name": "Quid Pro Quo",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21021.webp"
+  },
+  {
+    "id": "23022",
+    "name": "Reforged Remembrance",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23022.webp"
+  },
+  {
+    "id": "20022",
+    "name": "Reminiscence",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20022.webp"
+  },
+  {
+    "id": "21015",
+    "name": "Resolution Shines As Pearls of Sweat",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21015.webp"
+  },
+  {
+    "id": "21031",
+    "name": "Return to Darkness",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21031.webp"
+  },
+  {
+    "id": "21024",
+    "name": "River Flows in Spring",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21024.webp"
+  },
+  {
+    "id": "20020",
+    "name": "Sagacity",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20020.webp"
+  },
+  {
+    "id": "23027",
+    "name": "Sailing Towards a Second Life",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23027.webp"
+  },
+  {
+    "id": "23032",
+    "name": "Scent Alone Stays True",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23032.webp"
+  },
+  {
+    "id": "21062",
+    "name": "See You at the End",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21062.webp"
+  },
+  {
+    "id": "20021",
+    "name": "Shadowburn",
+    "rarity": 5,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20021.webp"
+  },
+  {
+    "id": "21047",
+    "name": "Shadowed by Night",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21047.webp"
+  },
+  {
+    "id": "21007",
+    "name": "Shared Feeling",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21007.webp"
+  },
+  {
+    "id": "20009",
+    "name": "Shattered Home",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20009.webp"
+  },
+  {
+    "id": "23011",
+    "name": "She Already Shut Her Eyes",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23011.webp"
+  },
+  {
+    "id": "23012",
+    "name": "Sleep Like the Dead",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23012.webp"
+  },
+  {
+    "id": "20023",
+    "name": "Sneering",
+    "rarity": 5,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20023.webp"
+  },
+  {
+    "id": "24003",
+    "name": "Solitary Healing",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24003.webp"
+  },
+  {
+    "id": "23002",
+    "name": "Something Irreplaceable",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23002.webp"
+  },
+  {
+    "id": "21017",
+    "name": "Subscribe for More!",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21017.webp"
+  },
+  {
+    "id": "21052",
+    "name": "Sweat Now, Cry Less",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21052.webp"
+  },
+  {
+    "id": "21010",
+    "name": "Swordplay",
+    "rarity": 5,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21010.webp"
+  },
+  {
+    "id": "24002",
+    "name": "Texture of Memories",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/24002.webp"
+  },
+  {
+    "id": "21006",
+    "name": "The Birth of the Self",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21006.webp"
+  },
+  {
+    "id": "21040",
+    "name": "The Day The Cosmos Fell",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21040.webp"
+  },
+  {
+    "id": "23056",
+    "name": "The Finale of a Lie",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23056.webp"
+  },
+  {
+    "id": "21057",
+    "name": "The Flower Remembers",
+    "rarity": 5,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21057.webp"
+  },
+  {
+    "id": "22005",
+    "name": "The Forever Victual",
+    "rarity": 5,
+    "type": "Harmony",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22005.webp"
+  },
+  {
+    "id": "22004",
+    "name": "The Great Cosmic Enterprise",
+    "rarity": 5,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22004.webp"
+  },
+  {
+    "id": "23046",
+    "name": "The Hell Where Ideals Burn",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23046.webp"
+  },
+  {
+    "id": "21005",
+    "name": "The Moles Welcome You",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21005.webp"
+  },
+  {
+    "id": "21027",
+    "name": "The Seriousness of Breakfast",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21027.webp"
+  },
+  {
+    "id": "21054",
+    "name": "The Story's Next Page",
+    "rarity": 5,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21054.webp"
+  },
+  {
+    "id": "23009",
+    "name": "The Unreachable Side",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23009.webp"
+  },
+  {
+    "id": "21030",
+    "name": "This Is Me!",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21030.webp"
+  },
+  {
+    "id": "23052",
+    "name": "This Love, Forever",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23052.webp"
+  },
+  {
+    "id": "23029",
+    "name": "Those Many Springs",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23029.webp"
+  },
+  {
+    "id": "23051",
+    "name": "Though Worlds Apart",
+    "rarity": 4,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23051.webp"
+  },
+  {
+    "id": "23044",
+    "name": "Thus Burns the Dawn",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23044.webp"
+  },
+  {
+    "id": "23013",
+    "name": "Time Waits for No One",
+    "rarity": 4,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23013.webp"
+  },
+  {
+    "id": "23036",
+    "name": "Time Woven Into Gold",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23036.webp"
+  },
+  {
+    "id": "23049",
+    "name": "To Evernight's Stars",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23049.webp"
+  },
+  {
+    "id": "21034",
+    "name": "Today Is Another Peaceful Day",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21034.webp"
+  },
+  {
+    "id": "21065",
+    "name": "Today's Good Luck",
+    "rarity": 5,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21065.webp"
+  },
+  {
+    "id": "22007",
+    "name": "Tomorrow, Together",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/22007.webp"
+  },
+  {
+    "id": "21016",
+    "name": "Trend of the Universal Market",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21016.webp"
+  },
+  {
+    "id": "21019",
+    "name": "Under the Blue Sky",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21019.webp"
+  },
+  {
+    "id": "23058",
+    "name": "Until the Flowers Bloom Again",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23058.webp"
+  },
+  {
+    "id": "21055",
+    "name": "Unto Tomorrow's Morrow",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21055.webp"
+  },
+  {
+    "id": "21050",
+    "name": "Victory In a Blink",
+    "rarity": 4,
+    "type": "Remembrance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21050.webp"
+  },
+  {
+    "id": "20004",
+    "name": "Void",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/20004.webp"
+  },
+  {
+    "id": "21028",
+    "name": "Warmth Shortens Cold Nights",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21028.webp"
+  },
+  {
+    "id": "21023",
+    "name": "We Are Wildfire",
+    "rarity": 5,
+    "type": "Preservation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21023.webp"
+  },
+  {
+    "id": "21029",
+    "name": "We Will Meet Again",
+    "rarity": 5,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21029.webp"
+  },
+  {
+    "id": "23057",
+    "name": "Welcome to the Cosmic City",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23057.webp"
+  },
+  {
+    "id": "21035",
+    "name": "What Is Real?",
+    "rarity": 5,
+    "type": "Abundance",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21035.webp"
+  },
+  {
+    "id": "23054",
+    "name": "When She Decided to See",
+    "rarity": 4,
+    "type": "Elation",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23054.webp"
+  },
+  {
+    "id": "23025",
+    "name": "Whereabouts Should Dreams Rest",
+    "rarity": 4,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23025.webp"
+  },
+  {
+    "id": "23047",
+    "name": "Why Does the Ocean Sing",
+    "rarity": 4,
+    "type": "Nihility",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23047.webp"
+  },
+  {
+    "id": "21026",
+    "name": "Woof! Walk Time!",
+    "rarity": 5,
+    "type": "Destruction",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/21026.webp"
+  },
+  {
+    "id": "23016",
+    "name": "Worrisome, Blissful",
+    "rarity": 4,
+    "type": "The Hunt",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23016.webp"
+  },
+  {
+    "id": "23028",
+    "name": "Yet Hope Is Priceless",
+    "rarity": 4,
+    "type": "Erudition",
+    "image_url": "https://static.nanoka.cc/assets/hsr/lightconemediumicon/23028.webp"
+  }
+]

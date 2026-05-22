@@ -39,11 +39,7 @@
             <span class="search-icon">⌕</span>
             <input type="text" id="searchInput" class="search-input" placeholder="Search…" autocomplete="off" />
           </div>
-          <div class="filter-pills" id="filterRarity">
-            <button class="pill active" data-filter-rarity="all">All</button>
-            <button class="pill" data-filter-rarity="5">5★</button>
-            <button class="pill" data-filter-rarity="4">4★</button>
-          </div>
+          <div class="filter-pills" id="filterRarity"></div>
           <div class="filter-pills" id="filterElement"></div>
           <div class="filter-pills" id="filterSpecialty"></div>
         </div>
@@ -53,7 +49,10 @@
       <section class="panel panel-wishlist">
         <div class="panel-head">
           <h2 class="panel-title">Wishlist</h2>
-          <span class="char-count" id="wishCount">0 entries</span>
+          <div class="wish-header-right">
+            <span class="wish-cost-badge" id="wishCost"></span>
+            <span class="char-count" id="wishCount">0 entries</span>
+          </div>
         </div>
         <div class="wishlist-body" id="wishlistBody">
           <div class="wish-empty">

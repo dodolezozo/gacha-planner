@@ -1,0 +1,399 @@
+[
+  {
+    "id": "escanor",
+    "name": "Escanor",
+    "rarity": 5,
+    "element": "Fire",
+    "elements": [
+      "Fire",
+      "Holy"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Axe",
+    "weapons": [
+      "Axe",
+      "Greatsword",
+      "Sword and Shield"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_escanor_001.webp",
+    "page_url": "https://origindb.gg/en/characters/escanor/20"
+  },
+  {
+    "id": "bug",
+    "name": "Bug",
+    "rarity": 4,
+    "element": "Darkness",
+    "elements": [
+      "Darkness"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Axe",
+    "weapons": [
+      "Axe",
+      "Dual Swords",
+      "Grimoire"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_bug_001.webp",
+    "page_url": "https://origindb.gg/en/characters/bug/1"
+  },
+  {
+    "id": "daisy",
+    "name": "Daisy",
+    "rarity": 5,
+    "element": "Earth",
+    "elements": [
+      "Earth",
+      "Lightning",
+      "Wind"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Sword and Shield",
+    "weapons": [
+      "Sword and Shield",
+      "Grimoire",
+      "Wand"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_Daisy_001.webp",
+    "page_url": "https://origindb.gg/en/characters/daisy/2"
+  },
+  {
+    "id": "diane",
+    "name": "Diane",
+    "rarity": 5,
+    "element": "Earth",
+    "elements": [
+      "Earth"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Axe",
+    "weapons": [
+      "Axe",
+      "Gauntlets",
+      "Nunchaku"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_diane_001.webp",
+    "page_url": "https://origindb.gg/en/characters/diane/3"
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "rarity": 5,
+    "element": "Lightning",
+    "elements": [
+      "Lightning"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Greatsword",
+    "weapons": [
+      "Greatsword",
+      "Staff",
+      "Longsword"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_Drake_001.webp",
+    "page_url": "https://origindb.gg/en/characters/drake/4"
+  },
+  {
+    "id": "dreydrin",
+    "name": "Dreydrin",
+    "rarity": 4,
+    "element": "Earth",
+    "elements": [
+      "Earth",
+      "Physics",
+      "Holy"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Sword and Shield",
+    "weapons": [
+      "Sword and Shield",
+      "Axe",
+      "Rapier"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_dreydrin_001.webp",
+    "page_url": "https://origindb.gg/en/characters/dreydrin/5"
+  },
+  {
+    "id": "dreyfus",
+    "name": "Dreyfus",
+    "rarity": 4,
+    "element": "Physics",
+    "elements": [
+      "Physics",
+      "Earth",
+      "Holy"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Rapier",
+    "weapons": [
+      "Rapier",
+      "Longsword",
+      "Lance"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_dreyfus_001.webp",
+    "page_url": "https://origindb.gg/en/characters/dreyfus/6"
+  },
+  {
+    "id": "elaine",
+    "name": "Elaine",
+    "rarity": 5,
+    "element": "Wind",
+    "elements": [
+      "Wind",
+      "Holy",
+      "Earth"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Wand",
+    "weapons": [
+      "Wand",
+      "Staff",
+      "Grimoire"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_elaine_001.webp",
+    "page_url": "https://origindb.gg/en/characters/elaine/7"
+  },
+  {
+    "id": "gilthunder",
+    "name": "Gilthunder",
+    "rarity": 4,
+    "element": "Lightning",
+    "elements": [
+      "Lightning"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Longsword",
+    "weapons": [
+      "Longsword",
+      "Sword and Shield",
+      "Lance"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_gilthunder_001.webp",
+    "page_url": "https://origindb.gg/en/characters/gilthunder/8"
+  },
+  {
+    "id": "griamore",
+    "name": "Griamore",
+    "rarity": 4,
+    "element": "Physics",
+    "elements": [
+      "Physics"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Sword and Shield",
+    "weapons": [
+      "Sword and Shield",
+      "Nunchaku",
+      "Gauntlets"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_griamore_001.webp",
+    "page_url": "https://origindb.gg/en/characters/griamore/9"
+  },
+  {
+    "id": "guila",
+    "name": "Guila",
+    "rarity": 5,
+    "element": "Fire",
+    "elements": [
+      "Fire"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Lance",
+    "weapons": [
+      "Lance",
+      "Sword and Shield",
+      "Rapier"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_guila_001.webp",
+    "page_url": "https://origindb.gg/en/characters/guila/10"
+  },
+  {
+    "id": "hendrickson",
+    "name": "Hendrickson",
+    "rarity": 4,
+    "element": "Holy",
+    "elements": [
+      "Holy",
+      "Physics",
+      "Darkness"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Longsword",
+    "weapons": [
+      "Longsword",
+      "Dual Swords",
+      "Lance"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_hendrickson_001.webp",
+    "page_url": "https://origindb.gg/en/characters/hendrickson/11"
+  },
+  {
+    "id": "howzer",
+    "name": "Howzer",
+    "rarity": 4,
+    "element": "Wind",
+    "elements": [
+      "Wind"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Lance",
+    "weapons": [
+      "Lance",
+      "Gauntlets",
+      "Nunchaku"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_howzer_001.webp",
+    "page_url": "https://origindb.gg/en/characters/howzer/12"
+  },
+  {
+    "id": "jericho",
+    "name": "Jericho",
+    "rarity": 5,
+    "element": "Cold",
+    "elements": [
+      "Cold"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Dual Swords",
+    "weapons": [
+      "Dual Swords",
+      "Lance",
+      "Rapier"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_jericho_001.webp",
+    "page_url": "https://origindb.gg/en/characters/jericho/13"
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "rarity": 5,
+    "element": "Holy",
+    "elements": [
+      "Holy",
+      "Physics",
+      "Earth"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Staff",
+    "weapons": [
+      "Staff",
+      "Grimoire",
+      "Wand"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_king_001.webp",
+    "page_url": "https://origindb.gg/en/characters/king/14"
+  },
+  {
+    "id": "manny",
+    "name": "Manny",
+    "rarity": 5,
+    "element": "Holy",
+    "elements": [
+      "Holy",
+      "Cold"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Staff",
+    "weapons": [
+      "Staff",
+      "Dual Swords",
+      "Longsword"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_manny_001.webp",
+    "page_url": "https://origindb.gg/en/characters/manny/15"
+  },
+  {
+    "id": "meliodas",
+    "name": "Meliodas",
+    "rarity": 5,
+    "element": "Darkness",
+    "elements": [
+      "Darkness"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Longsword",
+    "weapons": [
+      "Longsword",
+      "Axe",
+      "Dual Swords"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_meliodas_001.webp",
+    "page_url": "https://origindb.gg/en/characters/meliodas/16"
+  },
+  {
+    "id": "slader",
+    "name": "Slader",
+    "rarity": 4,
+    "element": "Fire",
+    "elements": [
+      "Fire",
+      "Physics"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Greatsword",
+    "weapons": [
+      "Greatsword",
+      "Axe",
+      "Nunchaku"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_slader_001.webp",
+    "page_url": "https://origindb.gg/en/characters/slader/17"
+  },
+  {
+    "id": "tioreh",
+    "name": "Tioreh",
+    "rarity": 4,
+    "element": "Fire",
+    "elements": [
+      "Fire",
+      "Earth"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Grimoire",
+    "weapons": [
+      "Grimoire",
+      "Wand",
+      "Staff"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_tioreh_001.webp",
+    "page_url": "https://origindb.gg/en/characters/tioreh/18"
+  },
+  {
+    "id": "tristan",
+    "name": "Tristan",
+    "rarity": 4,
+    "element": "Fire",
+    "elements": [
+      "Fire",
+      "Wind"
+    ],
+    "role": null,
+    "roles": [],
+    "weapon": "Dual Swords",
+    "weapons": [
+      "Dual Swords",
+      "Greatsword",
+      "Longsword"
+    ],
+    "image_url": "https://cdn.origindb.gg/images/characters/Portrait_hero_big_tristan_001.webp",
+    "page_url": "https://origindb.gg/en/characters/tristan/19"
+  }
+]

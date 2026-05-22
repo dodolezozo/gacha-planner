@@ -27,6 +27,14 @@ body[data-game="zzz"] {
   --glow:    rgba(240,184,48,.2);
 }
 
+/* ── The Seven Deadly Sins: Origin ─────── */
+body[data-game="sds"] {
+  --accent:  #e03c3c;
+  --accent2: rgba(224,60,60,.12);
+  --accent3: rgba(224,60,60,.05);
+  --glow:    rgba(224,60,60,.2);
+}
+
 /* ── Wuthering Waves ────────────────────── */
 body[data-game="wuwa"] {
   --accent:  #4ee8c0;
@@ -38,6 +46,13 @@ body[data-game="wuwa"] {
 /* ══════════════════════════════════════════
    Element / specialty pill colors
    ══════════════════════════════════════════ */
+
+/* SDS elements */
+.elem-Earth     { --ec: #a0784a; }
+.elem-Cold      { --ec: #8ae0f0; }
+.elem-Holy      { --ec: #e8d46a; }
+.elem-Darkness  { --ec: #8844cc; }
+/* Fire, Lightning, Wind, Physical already defined below */
 
 /* Genshin elements */
 .elem-Pyro     { --ec: #e85d4a; }
@@ -110,21 +125,30 @@ body[data-game="wuwa"] {
 .elem-dot.elem-Aero     { background: #4ae8b8; }
 .elem-dot.elem-Spectro  { background: #e8e064; }
 .elem-dot.elem-Havoc    { background: #cc6b8a; }
+/* SDS elements */
+.elem-dot.elem-Earth    { background: #a0784a; }
+.elem-dot.elem-Cold     { background: #8ae0f0; }
+.elem-dot.elem-Holy     { background: #e8d46a; }
+.elem-dot.elem-Darkness { background: #8844cc; }
 
 /* ── Game tab accents ───────────────────── */
 .game-tab[data-game="genshin"] { --tab-accent: #c9a96e; }
 .game-tab[data-game="hsr"]     { --tab-accent: #7eb8f7; }
 .game-tab[data-game="zzz"]     { --tab-accent: #f0b830; }
 .game-tab[data-game="wuwa"]    { --tab-accent: #4ee8c0; }
+.game-tab[data-game="sds"]     { --tab-accent: #e03c3c; }
 
 /* ── Rarity avatar backgrounds ──────────── */
 .char-card.rarity-5 .char-avatar {
-  background: linear-gradient(135deg, #231808, #3d2d10);
+  background: linear-gradient(to bottom, #885550, #C9A36A);
+}
+.char-card.rarity-4 .char-avatar {
+  background: linear-gradient(to bottom, #343659, #8A5FCC);
 }
 
-.char-card.rarity-4 .char-avatar {
-  background: linear-gradient(135deg, #1a1428, #2e2042);
-}
+/* ── Rarity badge strip (no text, just a color bar) ── */
+.rarity-5 .rarity-badge { background: linear-gradient(to right, #885550, #C9A36A); }
+.rarity-4 .rarity-badge { background: linear-gradient(to right, #343659, #8A5FCC); }
 
 /* ── Specialty tag colors (ZZZ / WuWa) ─── */
 .spec-Attack     { color: #e87a4a; }
@@ -147,3 +171,21 @@ body[data-game="wuwa"] {
 .spec-Destruction{ color: #e85d4a; }
 .spec-Remembrance{ color: #8ae0f0; }
 .spec-Follow-up  { color: #b899e8; }
+/* SDS weapons */
+.spec-Axe              { color: #e8a43a; }
+.spec-Grimoire         { color: #b899e8; }
+.spec-Nunchaku         { color: #4ae8b8; }
+.spec-Lance            { color: #4a9ee8; }
+.spec-Rapier           { color: #e8d46a; }
+.spec-Sword-and-Shield { color: #7dc954; }
+.spec-Dual-Swords      { color: #e85d4a; }
+.spec-Greatsword       { color: #e87a4a; }
+.spec-Longsword        { color: #aab8cc; }
+.spec-Wand             { color: #c470e8; }
+.spec-Staff            { color: #8ae0f0; }
+/* SDS roles */
+.spec-Attacker   { color: #e03c3c; }
+.spec-Supporter  { color: #4ae8b8; }
+.spec-Warden     { color: #4a9ee8; }
+.spec-Buster     { color: #b899e8; }
+.spec-Healer     { color: #7dc954; }
